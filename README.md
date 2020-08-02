@@ -8,7 +8,7 @@ Nice to meet you!
 - 👯 I’m looking to collaborate on Flutter Apps
 - 🤔 I’m looking for help with [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche)... Anything goes, but once i build it. 
 - 💬 Ask me about Neurolinguistic Programming 
-- 📫 Feel free to connect with me or find out more: [![Linkedin Badge](https://img.shields.io/badge/-33nanoseconds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/33nanoseconds/)](https://www.linkedin.com/in/33nanoseconds/)  [![Medium Badge](https://img.shields.io/badge/-@33nanoseconds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@33nanoseconds/)](https://medium.com/@33nanoseconds)  [![Gmail Badge](https://img.shields.io/badge/-33nano@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)
+- 📫 Feel free to connect with me or read more: [![Linkedin Badge](https://img.shields.io/badge/-33nanoseconds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/33nanoseconds/)](https://www.linkedin.com/in/33nanoseconds/)  [![Medium Badge](https://img.shields.io/badge/-@33nanoseconds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@33nanoseconds/)](https://medium.com/@33nanoseconds)  [![Gmail Badge](https://img.shields.io/badge/-33nano@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)
 
 - 😄 Aliases: 33 Nanoseconds, Kinky Therapist & Blasian Ninja.
 - ⚡ Fun fact: I love spreadsheets and calendars (i believe they are divine tools for managing life & data). 
