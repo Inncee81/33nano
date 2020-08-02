@@ -8,7 +8,7 @@ Nice to meet you!
 - 👯 I’m looking to collaborate on Flutter Apps
 - 🤔 I’m looking for help with [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche)... Anything goes, but once i build it. 
 - 💬 Ask me about Neurolinguistic Programming 
-- 📫 Feel free to connect with me or find out more: [![Linkedin Badge](https://img.shields.io/badge/-33nanoseconds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/33nanoseconds/)](https://www.linkedin.com/in/33nanoseconds/)  [![Medium Badge](https://img.shields.io/badge/-@33nanoseconds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@33nanoseconds/)](https://medium.com/@33nanoseconds)  [![Gmail Badge](https://img.shields.io/badge/-33nano@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:33nano@pm.me)](mailto:33nano@pm.me) [![Twwitter Badge](https://img.shields.io/twitter/url?color=red&style=social&url=https%3A%2F%2Ftwitter.com%2F33Nanoseconds)
+- 📫 Feel free to connect with me or find out more: [![Linkedin Badge](https://img.shields.io/badge/-33nanoseconds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/33nanoseconds/)](https://www.linkedin.com/in/33nanoseconds/)  [![Medium Badge](https://img.shields.io/badge/-@33nanoseconds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@33nanoseconds/)](https://medium.com/@33nanoseconds)  [![Gmail Badge](https://img.shields.io/badge/-33nano@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)
 
 - 😄 Aliases: 33 Nanoseconds, Kinky Therapist & Blasian Ninja.
 - ⚡ Fun fact: I love spreadsheets and calendars (i believe they are divine tools for managing life & data). 
@@ -17,11 +17,7 @@ Nice to meet you!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=33nanoseconds&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nanoseconds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
-<!--
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.me) 
-I probably wont use this until i understand what the hell the repo id is
 
-    For README.md file, use ${your.username}.${your.repo.id}, https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge for example.
-    For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1 for example.
--->
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) 
+
 
