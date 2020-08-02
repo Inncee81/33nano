@@ -4,7 +4,7 @@
 Here are some ideas to get you started.
 
 - 🔭 I’m currently working on building [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and making full use of my quarantine time. 
-- 🌱 I’m currently learning [**Dart](https://dart.dev/) & [**Flutter](https://flutter.dev/)
+- 🌱 I’m currently learning [**Dart**](https://dart.dev/) & [**Flutter**](https://flutter.dev/)
 - 👯 I’m looking to collaborate on Flutter Apps
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Neurolinguistic Programming and Metalearning.
