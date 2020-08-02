@@ -7,7 +7,7 @@ Nice to meet you!
 - 🌱 I’m currently learning [**Dart**](https://dart.dev/) & [**Flutter**](https://flutter.dev/)
 - 👯 I’m looking to collaborate on Flutter Apps
 - 🤔 I’m looking for help with [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche)... Anything goes, but once i build it. 
-- 💬 Ask me about Neurolinguistic Programming and Metalearning.
+- 💬 Ask me about Neurolinguistic Programming 
 - 📫 How to reach me: 33nano@pm.me
 - 😄 Aliases: 33 Nanoseconds, Kinky Therapist & Blasian Ninja.
 - ⚡ Fun fact: I love spreadsheets and calendars (i believe they are divine tools for managing life & data). 
