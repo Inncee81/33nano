@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nanoseconds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.id)
