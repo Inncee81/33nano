@@ -3,7 +3,7 @@
 
 Nice to meet you!  
 
-- 🔭 I’m currently working on this readme, [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and making full use of my quarantine time. 
+- 🔭 I’m currently working on this Readme, [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and making full use of my quarantine time. 
 - 🌱 I’m currently learning [**Dart**](https://dart.dev/) & [**Flutter**](https://flutter.dev/)
 - 👯 I’m looking to collaborate on Flutter Apps
 - 🤔 I’m looking for help with [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche)... Anything goes, but once i build it. 
@@ -23,6 +23,8 @@ Feel free to Connect with me or Explore
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) 
  
+ <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
+And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here. -->
  
 
 
