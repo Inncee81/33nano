@@ -24,7 +24,9 @@ Feel free to Connect with me or Explore
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) 
  
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
-And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here. -->
- 
+And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
+This is my reference https://github.com/abhisheknaiidu/awesome-github-profile-readme
+-->
+ <!-- More links here https://ujomusic.com/portal/musicgroup/849  (use soundcloud logo). 
 
 
