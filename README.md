@@ -3,7 +3,7 @@
 
 Nice to meet you!  
 
-- 🔭 I’m currently working on building [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and making full use of my quarantine time. 
+- 🔭 I’m currently working on this readme, [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and making full use of my quarantine time. 
 - 🌱 I’m currently learning [**Dart**](https://dart.dev/) & [**Flutter**](https://flutter.dev/)
 - 👯 I’m looking to collaborate on Flutter Apps
 - 🤔 I’m looking for help with [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche)... Anything goes, but once i build it. 
