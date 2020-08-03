@@ -9,7 +9,7 @@ Nice to meet you!
 - 🤔 I’m looking for help with [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche)... Anything goes, but once i build it. 
 - 💬 Ask me about Neurolinguistic Programming 
 
-                                                   **Connect With Me or Explore**
+                                                   <h1> Connect With Me or Explore </h1>
 [![Linkedin Badge](https://img.shields.io/badge/-33nanoseconds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/33nanoseconds/)](https://www.linkedin.com/in/33nanoseconds/)  [![Medium Badge](https://img.shields.io/badge/-@33nanoseconds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@33nanoseconds/)](https://medium.com/@33nanoseconds)  [![Gmail Badge](https://img.shields.io/badge/-33nano@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)  [![Dribbble Badge](https://img.shields.io/badge/-33nanoseconds-purple?style=flat-square&logo=dribbble&logoColor=white&link=https://www.dribbble.com/33nanoseconds)](https://www.dribbble.com/33nanoseconds)
 
 - 😄 Aliases: 33 Nanoseconds, Kinky Therapist & Blasian Ninja.
