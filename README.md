@@ -27,6 +27,10 @@ Feel free to Connect with me or Explore
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
 This is my reference https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
- <!-- More links here https://ujomusic.com/portal/musicgroup/849  (use soundcloud logo). 
+ <!-- More links here https://ujomusic.com/portal/musicgroup/849  (use soundcloud logo). https://www.reddit.com/user/33nanoseconds/ (logo exists)
+https://steemit.com/@drqueef (logo exists) 
 
+Include favorite open source projects/ favorite tools (you decide)
+ublock origin (logo exists). tachiyomi, magisk (logo exists), metamask, atom (logo exists), ipfs (logo exists)
 
+-->
