@@ -26,7 +26,23 @@ Feel free to Connect with me or Explore
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
 This is my reference https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
- <!-- More links here https://stackoverflow.com/users/13772339/33nanoseconds?tab=profile
+ <!-- More links here https://www.artstation.com/o33_nanoseconds (logo exists, but add when you upload stuff)
+https://www.pinterest.com/33Nanoseconds/ (logo exists, but add later)
+https://www.behance.net/drqueef (logo exists, but add later)
+https://unsplash.com/@33nanoseconds (logo exists, but add later)
+https://gumroad.com/33nanoseconds (logo exists, add later)
+https://ko-fi.com/33nano (logo exists, later)
+https://drive.google.com/drive/folders/1V5QgO-YrauzXt4EL7a9oEPrIINPuUuQH?usp=sharing (logo exists, later)
+https://spectrum.chat/users/33nanoseconds?tab=posts (logo exists, add later)
+https://www.youtube.com/channel/UCOdjC-y5VobaBlYN53V_M6w (logo exists, add later)
+
+
+Difference section https://www.paypal.me/ptn10606 
+ETH: 0x8aa243EcCb8a4cf7E4C8E54B83989C873a36626d
+DAI: 0xb9337c00F7f1E74C068a885446b7C2848916A154
+BTC: 1PPAY1XWNEWiqa97U3yEDqX1Qrvh2k9PJG
+
+
 https://steemit.com/@drqueef (logo exists) 
 
 Include favorite open source projects/ favorite tools (you decide)
