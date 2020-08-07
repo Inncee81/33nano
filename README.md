@@ -27,7 +27,7 @@ Feel free to Connect with me or Explore
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nanoseconds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) [![Repos Badge](https://badges.pufler.dev/repos/33nanoseconds)](https://badges.pufler.dev)
  
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
