@@ -3,8 +3,12 @@
 
 Nice to meet you!  
 
-- 🔭 I’m currently working on this Readme, [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche), [IPFS_Site](https://abbfe6z95qov3d40hf6j30g7auo7afhp.mypinata.cloud/ipfs/QmXSPgDjksLHvgLH92Hm356E8ByMbam19atyzvt4mkb4Mw/) and other stuff. 
 - 🌱 I’m currently learning [**Dart**](https://dart.dev/) & [**Flutter**](https://flutter.dev/)
+
+- 🔭 I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other app ideas. 
+
+<img src="Pictures/1.png" width=400 >  <img src="Pictures/2.png" width=400 >
+
 - 👯 I’m looking to collaborate on Flutter Apps
 - 💬 Ask me about Neurolinguistic Programming 
 
