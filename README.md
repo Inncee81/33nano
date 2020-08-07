@@ -10,7 +10,7 @@ Nice to meet you!
 <!-- <img src="Pictures/2.png" width=400 > I'll just comment it out for now, until i figure out how to make it work. -->
 
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=400 >
-img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=400 >
+<img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=400 >
 
 - 👯 I’m looking to collaborate on Flutter Apps
 - 💬 Ask me about Neurolinguistic Programming 
