@@ -41,6 +41,7 @@ https://spectrum.chat/users/33nanoseconds?tab=posts (logo exists, add later)
 https://www.youtube.com/channel/UCOdjC-y5VobaBlYN53V_M6w (logo exists, add later)
 https://dev.to/kinky_therapist (logo exists, later)
 
+Should i feel the need to https://resume.io/r/d42BIViVi (Incomplete)
 
 Difference section https://www.paypal.me/ptn10606 
 ETH: 0x8aa243EcCb8a4cf7E4C8E54B83989C873a36626d
