@@ -7,7 +7,7 @@ Nice to meet you!
 
 - 🔭 I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other app ideas. 
 
-<img src="Pictures/1.png" width=300 >  <img src="Pictures/2.png" width=300 >
+<img src="Pictures/1.png" <img src="Pictures/2.png" >
 
 - 👯 I’m looking to collaborate on Flutter Apps
 - 💬 Ask me about Neurolinguistic Programming 
