@@ -3,7 +3,7 @@
 
 * Currently Learning
 
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/flutter-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/flutter-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/go-%230175C2.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/solidity-%230175C2.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
 
 - 🔭 I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other app ideas. 
 
