@@ -39,6 +39,7 @@ https://ko-fi.com/33nano (logo exists, later)
 https://drive.google.com/drive/folders/1V5QgO-YrauzXt4EL7a9oEPrIINPuUuQH?usp=sharing (logo exists, later)
 https://spectrum.chat/users/33nanoseconds?tab=posts (logo exists, add later)
 https://www.youtube.com/channel/UCOdjC-y5VobaBlYN53V_M6w (logo exists, add later)
+https://dev.to/kinky_therapist (logo exists, later)
 
 
 Difference section https://www.paypal.me/ptn10606 
