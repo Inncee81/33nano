@@ -2,13 +2,13 @@
 ### My Name is Prince. Nice to meet you! 
 
 * Currently Learning
-
+________________________________________________________________________________________________________________________________________________________________
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/flutter-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/go-%230175C2.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/solidity-%230175C2.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
-
+_________________________________________________________________________________________________________________________________________________________________
 - 🔭 I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other app ideas. 
 
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=300 >  <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=300 >
-
+________________________________________________________________________________________________________________________________________________________________
 - 👯 I’m looking to collaborate on Flutter Apps
 - 💬 Ask me about Neurolinguistic Programming 
 
