@@ -1,5 +1,5 @@
 # Hello World!
-> My name is Prince. Nice to meet you.
+
 
 
 Nice to meet you!  
@@ -7,8 +7,6 @@ Nice to meet you!
 - 🌱 I’m currently learning [**Dart**](https://dart.dev/) & [**Flutter**](https://flutter.dev/)
 
 - 🔭 I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other app ideas. 
-
-<!-- <img src="Pictures/2.png" width=400 > I'll just comment it out for now, until i figure out how to make it work. -->
 
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=300 >  <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=300 >
 
@@ -27,7 +25,7 @@ Feel free to Connect with me or Explore
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nanoseconds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) [![Repos Badge](https://badges.pufler.dev/repos/33nanoseconds)](https://badges.pufler.dev)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) [![Repos Badge](https://badges.pufler.dev/repos/33nanoseconds)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/33nanoseconds)](https://badges.pufler.dev)
  
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
