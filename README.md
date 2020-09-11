@@ -9,8 +9,8 @@ ________________________________________________________________________________
 
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=300 >  <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=300 >
 ________________________________________________________________________________________________________________________________________________________________
-- 👯 I’m looking to collaborate on Flutter Apps Or [Soundtrap](https://www.soundtrap.com/33nanoseconds)
-- 💬 Ask me about Neurolinguistic Programming 
+<!-- - 👯 I’m looking to collaborate on Flutter Apps Or [Soundtrap](https://www.soundtrap.com/33nanoseconds)
+- 💬 Ask me about Neurolinguistic Programming -->
 
 Feel free to Connect with me or Explore
 
