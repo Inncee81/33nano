@@ -48,6 +48,7 @@ ETH: 0x8aa243EcCb8a4cf7E4C8E54B83989C873a36626d
 DAI: 0xb9337c00F7f1E74C068a885446b7C2848916A154
 BTC: 1PPAY1XWNEWiqa97U3yEDqX1Qrvh2k9PJG
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
 
 https://steemit.com/@drqueef (logo exists) 
 
