@@ -37,10 +37,9 @@ https://www.behance.net/drqueef (logo exists, but add later)
 https://unsplash.com/@33nanoseconds (logo exists, but add later)
 https://gumroad.com/33nanoseconds (logo exists, add later)
 https://ko-fi.com/33nano (logo exists, later)
-https://drive.google.com/drive/folders/1V5QgO-YrauzXt4EL7a9oEPrIINPuUuQH?usp=sharing (logo exists, later)
 https://spectrum.chat/users/33nanoseconds?tab=posts (logo exists, add later)
 https://www.youtube.com/channel/UCOdjC-y5VobaBlYN53V_M6w (logo exists, add later)
-https://drive.google.com/drive/folders/1MFLoyW43VdA5XSIObUJNACc5XJ246CIO?usp=sharing
+
 
 
 Should i feel the need to https://resume.io/r/d42BIViVi (Incomplete)
