@@ -31,7 +31,7 @@ ________________________________________________________________________________
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
 This is my reference https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
- <!-- More links here https://www.artstation.com/o33_nanoseconds (logo exists, but add when you upload stuff)
+ <!--
 https://www.pinterest.com/33Nanoseconds/ (logo exists, but add later)
 https://www.behance.net/drqueef (logo exists, but add later)
 https://unsplash.com/@33nanoseconds (logo exists, but add later)
