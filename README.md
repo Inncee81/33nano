@@ -32,13 +32,14 @@ And dont forget. Its all thanks to shield.io - use it for other stuff. Continue 
 This is my reference https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
  <!--
-https://www.pinterest.com/33Nanoseconds/ (logo exists, but add later)
+https://www.pinterest.com/tikiti_maji/ (logo exists, but add later)
 https://www.behance.net/drqueef (logo exists, but add later)
-https://unsplash.com/@33nanoseconds (logo exists, but add later)
+https://unsplash.com/@33nano (logo exists, but add later)
 https://ko-fi.com/33nano (logo exists, later)
-https://spectrum.chat/users/33nanoseconds?tab=posts (logo exists, add later)
+https://spectrum.chat/users/33nano?tab=posts (logo exists, add later)
 https://www.youtube.com/channel/UCOdjC-y5VobaBlYN53V_M6w (logo exists, add later)
-
+https://33nano.itch.io/ (itch io exists)
+Telegram, LBRY, Discord
 
 
 Should i feel the need to https://resume.io/r/d42BIViVi (Incomplete)
