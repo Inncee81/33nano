@@ -20,11 +20,11 @@ ________________________________________________________________________________
 - ⚡ Fun fact: I love spreadsheets and calendars (i believe they are divine tools for managing life & data). 
 - If you can read [this](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6IkRhdGEgQ29uc3VtcHRpb24ueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvODA4ZTgxODBjYzc3YjhjN2JhZDNlMTc5MzRiZTFlZmFhYTNiMTQ5ODhiNjY2MzczZWMxZWZjZGM3MjI2NjZmZCIsInBrIjoiM2UyNTQ4ZWQ2YmIzNTZjMGQ3ZGY3MGM4ZDk3OTA5NjQ4MjY0MDdjOGNlNjY1YmFiZDk2MjA0ZmViNzdmMjI1ZiIsIml2IjoiMzRiMzZlNmY3MzAxODM2OTNiMTk0ZjVmOTUwODk3NzkifQ==), you are a genius. -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=33nanoseconds&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=33nano&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nanoseconds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.33nanoseconds) [![Repos Badge](https://badges.pufler.dev/repos/33nanoseconds)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/33nanoseconds)](https://badges.pufler.dev)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nano.33nano) [![Repos Badge](https://badges.pufler.dev/repos/33nano)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/33nano)](https://badges.pufler.dev)
  
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
