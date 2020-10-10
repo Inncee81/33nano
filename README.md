@@ -1,5 +1,5 @@
 # Hello World!
-### My Name is Prince. I am a Lifelong Learner 🧠 Digital Nomad 💻 Game Developer 🎮
+### My Name is Prince. I am a Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮
 
 <!--* Currently Learning
 ________________________________________________________________________________________________________________________________________________________________
