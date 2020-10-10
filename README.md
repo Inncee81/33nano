@@ -1,11 +1,11 @@
 # Hello World!
-### My Name is Prince. Nice to meet you! 
+### My Name is Prince. I am a Lifelong Learner 🧠 Digital Nomad 💻 Game Developer 🎮
 
 <!--* Currently Learning
 ________________________________________________________________________________________________________________________________________________________________
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/flutter-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/go-%230175C2.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/solidity-%230175C2.svg?&style=for-the-badge&logo=solidity&logoColor=white"/> -->
 _________________________________________________________________________________________________________________________________________________________________
-- 🔭 I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other [ideas](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6ImwzM3QueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvNjczYjcwODAwZTFlODYxNjBhOGIyMWIyYjljMGI3NGRlNDMxZTZhMDhkNjhjZDAzNjU5NDhkNmRjMjIwMjA0OSIsInBrIjoiN2U5MDAyNzZlOTdjNGQ1MDBiMzE3YTU1M2M3MzY2ZWM2N2RmM2ZmNzUyM2Y0NTI2NTRiYTk3MmE5ODZiMGY0YSIsIml2IjoiNjhmNjhlMjFjZjRkYWJjZTM2YjhiMGRkYWFkOWM3YTEifQ==) 
+- I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other [ideas](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6ImwzM3QueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvNjczYjcwODAwZTFlODYxNjBhOGIyMWIyYjljMGI3NGRlNDMxZTZhMDhkNjhjZDAzNjU5NDhkNmRjMjIwMjA0OSIsInBrIjoiN2U5MDAyNzZlOTdjNGQ1MDBiMzE3YTU1M2M3MzY2ZWM2N2RmM2ZmNzUyM2Y0NTI2NTRiYTk3MmE5ODZiMGY0YSIsIml2IjoiNjhmNjhlMjFjZjRkYWJjZTM2YjhiMGRkYWFkOWM3YTEifQ==) 
 
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=300 >  <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=300 >
 ________________________________________________________________________________________________________________________________________________________________
