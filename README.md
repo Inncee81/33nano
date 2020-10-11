@@ -21,7 +21,7 @@ ________________________________________________________________________________
 - ⚡ Fun fact: I love spreadsheets and calendars (i believe they are divine tools for managing life & data). 
 - If you can read [this](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6IkRhdGEgQ29uc3VtcHRpb24ueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvODA4ZTgxODBjYzc3YjhjN2JhZDNlMTc5MzRiZTFlZmFhYTNiMTQ5ODhiNjY2MzczZWMxZWZjZGM3MjI2NjZmZCIsInBrIjoiM2UyNTQ4ZWQ2YmIzNTZjMGQ3ZGY3MGM4ZDk3OTA5NjQ4MjY0MDdjOGNlNjY1YmFiZDk2MjA0ZmViNzdmMjI1ZiIsIml2IjoiMzRiMzZlNmY3MzAxODM2OTNiMTk0ZjVmOTUwODk3NzkifQ==), you are a genius. -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=33nano&show_icons=true&theme=radical)
+[33nano github stats](https://github-readme-stats.vercel.app/api?username=33nano&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nanoseconds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> <!-- Add this later--> 
 
