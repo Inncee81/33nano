@@ -26,7 +26,8 @@ ________________________________________________________________________________
 --> <!-- Add this later--> 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nano.33nano) [![Repos Badge](https://badges.pufler.dev/repos/33nano)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/33nano)](https://badges.pufler.dev)  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33nano&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
  
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
