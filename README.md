@@ -41,6 +41,8 @@ ________________________________________________________________________________
 <!-- - 😄 My Favorite Tools: ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Firefox](https://img.shields.io/badge/-Firefox-black?style=flat-square&logo=firefox)
 - ⚡ Fun fact: I love spreadsheets and calendars (i believe they are divine tools for managing life & data). 
 - If you can read [this](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6IkRhdGEgQ29uc3VtcHRpb24ueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvODA4ZTgxODBjYzc3YjhjN2JhZDNlMTc5MzRiZTFlZmFhYTNiMTQ5ODhiNjY2MzczZWMxZWZjZGM3MjI2NjZmZCIsInBrIjoiM2UyNTQ4ZWQ2YmIzNTZjMGQ3ZGY3MGM4ZDk3OTA5NjQ4MjY0MDdjOGNlNjY1YmFiZDk2MjA0ZmViNzdmMjI1ZiIsIml2IjoiMzRiMzZlNmY3MzAxODM2OTNiMTk0ZjVmOTUwODk3NzkifQ==), you are a genius. -->
+<details>
+<summary>⚡️ Github Stats</summary>
 
 ![33nano github stats](https://github-readme-stats.vercel.app/api?username=33nano&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  
 
@@ -51,6 +53,7 @@ ________________________________________________________________________________
  
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nano.33nano) [![Repos Badge](https://badges.pufler.dev/repos/33nano)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/33nano)](https://badges.pufler.dev)  
  
+ </details>
  <!-- The icons are from here https://simpleicons.org If it doesnt exist here, dont use it. Its too much work to fetch icons from other sites 
 And dont forget. Its all thanks to shield.io - use it for other stuff. Continue the format from here.
 This is my reference https://github.com/abhisheknaiidu/awesome-github-profile-readme
