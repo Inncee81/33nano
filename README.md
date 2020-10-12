@@ -15,7 +15,7 @@ const 33nano = {
                         speaker: "N/A",
                         mentor: "N/A"
                       },
- learning: "Just enough to connect the dots"
+ learning: "Just enough to build functional apps"
 }
 ```
 
