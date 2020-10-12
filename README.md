@@ -70,6 +70,7 @@ Telegram, LBRY, Discord
 
 https://sourcerer.io/33nano
 
+Calendar 1: https://teamup.com/kspgus2fjksb24jqku
 
 
 Should i feel the need to https://resume.io/r/d42BIViVi (Incomplete)
