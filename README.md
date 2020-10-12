@@ -8,8 +8,8 @@ const 33nano = {
   os: [Manjaro bspwm,Havoc OS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   favorite_books: ["microservices", "event-driven", "design system pattern"],
-  favorite_manhwa: ["Eleceed", "Peerless Dad", "Solo Leveling","Brawling Go","Sweet Guy","Noblesse","Dr Frost","Love Parameter","3CM Hunter",],
-  favorite_manga: ["microservices", "event-driven", "design system pattern"],
+  favorite_manhwa: ["Eleceed", "Peerless Dad", "Solo Leveling","Brawling Go","Sweet Guy","Noblesse","Dr Frost","Love Parameter","3CM Hunter"],
+  favorite_manga: ["Berserk", "Sun-Ken Rock", "DBS","OPM","Bleach","GTO","JJBA","MS100","Dr Slump","Origin","DBZ","Jagaaaaaan"],
   techCommunities: {
                         coorganizer: "N/A",
                         speaker: "N/A",
