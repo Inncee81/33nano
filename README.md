@@ -1,5 +1,7 @@
-# Hello World!
-### My Name is Prince. I am a Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮
+### Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮
+<details>
+<summary>⚡️ About Me</summary>
+
 ```javascript
 const 33nano = {
   aliases: "33nanoseconds" | "Dr Queef"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra",
@@ -25,6 +27,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________
 - I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other [ideas](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6ImwzM3QueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvNjczYjcwODAwZTFlODYxNjBhOGIyMWIyYjljMGI3NGRlNDMxZTZhMDhkNjhjZDAzNjU5NDhkNmRjMjIwMjA0OSIsInBrIjoiN2U5MDAyNzZlOTdjNGQ1MDBiMzE3YTU1M2M3MzY2ZWM2N2RmM2ZmNzUyM2Y0NTI2NTRiYTk3MmE5ODZiMGY0YSIsIml2IjoiNjhmNjhlMjFjZjRkYWJjZTM2YjhiMGRkYWFkOWM3YTEifQ==) 
 
+</details>
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=300 >  <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=300 >
 ________________________________________________________________________________________________________________________________________________________________
 <!-- - 👯 I’m looking to collaborate on Flutter Apps Or [Soundtrap](https://www.soundtrap.com/33nanoseconds)
