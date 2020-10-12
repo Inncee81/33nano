@@ -2,17 +2,17 @@
 ### My Name is Prince. I am a Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮
 ```javascript
 const 33nano = {
-  aliases: "33nanoseconds" | "Dr Queef",| "Reverend Tapioca",| "Antisocial Ambassador",| "Anno Denomini",| "Blasian Ninja",| "Doma Dingus",| "Yakkety Quire",| "Taradiddle Poodle",
-  code: [Dart, Typescript, HTML5, CSS3, Ruby, Python, Java],
+  aliases: "33nanoseconds" | "Dr Queef",| "Reverend Tapioca",| "Antisocial Ambassador",| "Anno Denomini",| "Blasian Ninja",| "Doma Dingus",| "Yakkety Quire",| "Taradiddle Poodle",| "Jah Palaestra",
+  code: [Dart,JS, HTML5, CSS3, GDScript, Python, Java],
   tools: [Figma, Rive 2,VS Codium, Storybook, Styled-Components, Jest, Docker],
   os: [Manjaro bspwm,Havoc OS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "N/A",
+                        speaker: "N/A",
+                        mentor: "N/A"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ learning: "Just enough to connect the dots"
 }
 ```
 
