@@ -7,7 +7,7 @@ const 33nano = {
   tools: [Figma, Rive 2,VS Codium, Storybook, Styled-Components, Jest, Docker],
   os: [Manjaro bspwm,Havoc OS],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  favorite_books: ["microservices", "event-driven", "design system pattern"],
+  favorite_books: ["Limitless", "Forward Tilt", "The Kaizen Way","Memory Rescue","Personal MBA","Goodybe Things","Rich Dad,Poor Dad"],
   favorite_manhwa: ["Eleceed", "Peerless Dad", "Solo Leveling","Brawling Go","Sweet Guy","Noblesse","Dr Frost","Love Parameter","3CM Hunter"],
   favorite_manga: ["Berserk", "Sun-Ken Rock", "DBS","OPM","Bleach","GTO","JJBA","MS100","Dr Slump","Origin","DBZ","Jagaaaaaan"],
   techCommunities: {
