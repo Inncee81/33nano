@@ -2,7 +2,7 @@
 ### My Name is Prince. I am a Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮
 ```javascript
 const 33nano = {
-  pronouns: "she" | "her",
+  aliases: "33nanoseconds" | "Dr Queef",| "Reverend Tapioca",| "Antisocial Ambassador",| "Anno Denomini",
   code: [Dart, Typescript, HTML5, CSS3, Ruby, Python, Java],
   tools: [Figma, Rive 2,VS Codium, Storybook, Styled-Components, Jest, Docker],
   os: [Manjaro bspwm,Havoc OS],
