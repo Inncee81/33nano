@@ -71,7 +71,7 @@ Telegram, LBRY, Discord
 https://sourcerer.io/33nano
 
 Calendar 1: https://teamup.com/kspgus2fjksb24jqku
-
+Calendar 2: https://calendar.zoho.com/embed/9b0258233fc25be671fbbf01550932c23e6718f5fecf32d9af8e1ba5f6151562693b4d97c774b001ca56d80b468cdf5f
 
 Should i feel the need to https://resume.io/r/d42BIViVi (Incomplete)
 
