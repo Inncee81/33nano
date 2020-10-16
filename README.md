@@ -7,7 +7,7 @@ const 33nano = {
   os: [Manjaro bspwm,Havoc OS],
   interests: ["Blockchain development", "Mobile App development", "Game Development"],
   favorite_books: ["Limitless", "Forward Tilt", "The Kaizen Way","Memory Rescue","Personal MBA","Goodybe Things","Rich Dad,Poor Dad"],
-  favorite_manhwa: ["일렉시드", "아비무쌍", "나혼자만레벨업","어쩌라GO!","Sweet Guy","Noblesse","Dr Frost","Love Parameter","3CM Hunter","Second Life Ranker"],
+  favorite_manhwa: ["일렉시드", "아비무쌍", "나혼자만레벨업","어쩌라GO!","Sweet Guy","노블레스","Dr Frost","Love Parameter","3CM Hunter","Second Life Ranker","싸움독학"],
   favorite_manga: ["Berserk", "Sun-Ken Rock", "DBS","OPM","Bleach","GTO","JJBA","MS100","Dr Slump","Origin","DBZ","Jagaaaaaan"],
   techCommunities: {
                         coorganizer: "N/A",
