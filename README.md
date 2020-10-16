@@ -8,7 +8,7 @@ const 33nano = {
   interests: ["Blockchain development", "Mobile App development", "Game Development"],
   favorite_books: ["Limitless", "Forward Tilt", "The Kaizen Way","Memory Rescue","Personal MBA","Goodybe Things","Rich Dad,Poor Dad"],
   favorite_manhwa: ["일렉시드", "아비무쌍", "나혼자만레벨업","어쩌라GO!","몸에좋은남자","노블레스","닥터 프로스트","연애 파라미터","3cm 헌터","두번사는랭커","싸움독학","아빠는출근 중"],
-  favorite_manga: ["Berserk", "Sun-Ken Rock", "DBS","OPM","Bleach","GTO","JJBA","MS100","Dr Slump","Origin","DBZ","Jagaaaaaan"],
+  favorite_manga: ["ベルセルク", "サンケンロック", "DBS","OPM","ブリーチ","GTO","JJBA","MS100","Dr.スランプ","オリジン","DBZ","ジャガーン"],
   techCommunities: {
                         coorganizer: "N/A",
                         speaker: "N/A",
