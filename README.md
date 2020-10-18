@@ -1,7 +1,7 @@
 ### Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮
 ```javascript
 const 33nano = {
-  aliases: "33nanoseconds" | "Dr Queef"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra",
+  aliases: "33nanoseconds"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra" | "Dr Queef"|"Kinky Therapist",
   code: [DartxFlutter,JS, HTML5, CSS3, GDScript, Python],
   tools: [Figma, Rive 2,VS Codium,Godot,Magicavoxel,Pixelorama,Blender,LMMS,Inkscape,Gimp],
   os: [Manjaro bspwm,Havoc OS],
