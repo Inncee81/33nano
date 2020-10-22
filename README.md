@@ -65,14 +65,18 @@ https://ko-fi.com/33nano (icon exists,add later)
 https://spectrum.chat/users/33nano?tab=posts (logo exists, add later)
 https://archive.org/details/@glutenfreeza (icon exists, add later)
 https://www.instagram.com/anno_denomini/ (icon exists, add later)
+https://spectrum.chat/users/33nano?tab=posts (add later)
 
-Telegram, LBRY, Discord
-[![LMMS Badge](https://img.shields.io/badge/-33nano-red?style=flat-square&logo=lmms&logoColor=white&link=https://lmms.io/lsp/?action=browse&user=33nanoseconds)](https://lmms.io/lsp/?action=browse&user=33nanoseconds) Straught up failed
+
+Telegram, LBRY, Discord, Steam, Academica, Mega, Flipboard, Mix, My podcasts (google podcasts), RSS (blogs i am subscribed, xda dev, game dev...)
+Local Guide (google maps)
+
+Next section favorite tech (same dropdown style)
+Figma, inkscape, ipfs, kodi, arch linux, manjaro, libre office, asesprite, dart, flutter, bulma, html, krita, godot, renpy, fdroid, gimp, virtualbox, sublime, obs studio, bitwarden, snapcraft, audacity, inkscape, tails, vs code, ublock origin, dark reader, markdown, 
 
 https://sourcerer.io/33nano
 
-https://anilist.co/user/33nanoseconds/mangalist
-https://myanimelist.net/profile/33Nanoseconds
+
 Should i feel the need to https://resume.io/r/d42BIViVi (Incomplete)
 
 Difference section https://www.paypal.me/ptn10606 
