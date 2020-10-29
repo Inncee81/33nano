@@ -2,8 +2,8 @@
 ```javascript
 const 33nano = {
   aliases: "33nanoseconds"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra" | "Dr Queef"|"Kinky Therapist",
-  code: [DartxFlutter,JS, HTML5, CSS3, GDScript, Python],
-  tools: [Figma, Rive 2,VS Codium,Godot,Magicavoxel,Pixelorama,Blender,LMMS,Inkscape,Gimp],
+  code: [Dart,JS, HTML5, CSS3, GDScript, Python, Go, Lua],
+  tools: [Figma, Rive 2,VS Codium,Godot,Magicavoxel,Pixelorama,Blender,LMMS,Inkscape,Gimp, Love2D],
   os: [Manjaro bspwm,Havoc OS],
   interests: ["Blockchain development", "Mobile App development", "Game Development"],
   favorite_books: ["Limitless", "Forward Tilt", "The Kaizen Way","Memory Rescue","Personal MBA","Goodybe Things","Rich Dad,Poor Dad"],
