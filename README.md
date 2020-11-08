@@ -3,9 +3,9 @@
 const 33nano = {
   aliases: "33nanoseconds"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra" | "Dr Queef"|"Kinky Therapist",
   code: [Dart,JS, HTML5, CSS3, GDScript, Python, Go, Lua],
-  tools: [Figma, Rive 2,VS Codium,Godot,Magicavoxel,Pixelorama,Blender,LMMS,Inkscape,Gimp, Love2D],
+  tools: [Figma, Rive 2,VS Codium,Godot,Magicavoxel,Pixelorama,Blender,LMMS,Inkscape,Gimp, Love2D, GDevelop, Renpy, Construct 3, Asesprite, MyPaint],
   os: [Manjaro bspwm,Havoc OS],
-  interests: ["Blockchain development", "Mobile App development", "Game Development"],
+  interests: ["Blockchain development", "Mobile App development", "Game Development","Permanent Record"],
   favorite_books: ["Limitless", "Forward Tilt", "The Kaizen Way","Memory Rescue","Personal MBA","Goodybe Things","Rich Dad,Poor Dad"],
   favorite_manhwa: ["일렉시드", "아비무쌍", "나혼자만레벨업","어쩌라GO!","몸에좋은남자","노블레스","닥터 프로스트","연애 파라미터","3cm 헌터","두번사는랭커","싸움독학","아빠는출근 중","너의사정은","섹서사이즈","나 홀로 로그인"],
   favorite_manga: ["ベルセルク", "サンケンロック", "DBS","OPM","ブリーチ","GTO","JJBA","MS100","Dr.スランプ","オリジン","DBZ","ジャガーン"],
