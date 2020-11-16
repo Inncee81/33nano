@@ -1,5 +1,5 @@
- # Lifelong Learner 🧠 Digital Nomad 💻 &  Game Developer 🎮
- 
+ # Lifelong Learner_ 🧠 Digital Nomad 💻 _ Game Developer 🎮
+
 
 
 ```Javascript
