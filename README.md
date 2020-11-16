@@ -1,6 +1,6 @@
- ### Lifelong Learner 🧠 Digital Nomad 💻 &  
+ # Lifelong Learner 🧠 Digital Nomad 💻 &  Game Developer 🎮
  
-<span style="color:red"> Game Developer </span>
+
 
 ```Javascript
 const 33nano = {
