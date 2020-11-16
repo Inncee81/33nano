@@ -1,7 +1,8 @@
  ### Lifelong Learner 🧠 Digital Nomad 💻 &  
+ 
+<span style="color:red"> Game Developer </span>
 
-
-```
+```Javascript
 const 33nano = {
   aliases: "33nanoseconds"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra" | "Dr Queef"|"Kinky Therapist" | "Exiled Afropolitan" | "Emperor Habibi"
   code: [Dart,JS, HTML5, CSS3, GDScript, Python, Go, Lua],
