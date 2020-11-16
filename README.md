@@ -40,11 +40,9 @@ ________________________________________________________________________________
 
 
 <details> <summary> Calendars </summary>
- 
   Calendar 1
   Calendar 2
   Calendar 3
-  
   </details>
 
 </details>
