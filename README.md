@@ -1,4 +1,4 @@
- # Lifelong Learner_ 🧠 Digital Nomad 💻 _ Game Developer 🎮
+ # Afropolitan Lifelong Learner_ 🧠 Digital Nomad 💻 _ Game Developer 🎮
 
 ```Javascript
 const 33nano = {
