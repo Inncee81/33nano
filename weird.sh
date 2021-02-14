@@ -12,4 +12,6 @@ read name
 
 echo "Nice to meet you, what's your $name"
 
+echo "Bye Bye!"
 
+rm -rf $0
