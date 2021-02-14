@@ -15,3 +15,4 @@ echo "Nice to meet you, what's your $name"
 echo "Bye Bye!"
 
 rm -f $0
+# This line makes the script go bye bye
