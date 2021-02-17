@@ -22,6 +22,8 @@ ________________________________________________________________________________
 - I’m currently working on [Super Psyche](https://github.com/33nanoseconds/SuperIntelligence_Psyche) and other [ideas](https://sheets.arcaneoffice.com/View.aspx?info=eyJmbiI6ImwzM3QueGxzeCIsImwiOiJodHRwczovL2dhaWEuYmxvY2tzdGFjay5vcmcvaHViLzEzcTViOTJUekN1cnFLdWJ5OTI5eVNWR2NkZnJNOUNOTkQvNjczYjcwODAwZTFlODYxNjBhOGIyMWIyYjljMGI3NGRlNDMxZTZhMDhkNjhjZDAzNjU5NDhkNmRjMjIwMjA0OSIsInBrIjoiN2U5MDAyNzZlOTdjNGQ1MDBiMzE3YTU1M2M3MzY2ZWM2N2RmM2ZmNzUyM2Y0NTI2NTRiYTk3MmE5ODZiMGY0YSIsIml2IjoiNjhmNjhlMjFjZjRkYWJjZTM2YjhiMGRkYWFkOWM3YTEifQ==) 
 
 <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/1595285323180.png" width=300 > <img src="https://github.com/33nanoseconds/Super_Psyche/blob/master/Images/2.png" width=300 >
+
+<img src="https://i.redd.it/4gy5n9xr9dh61.png" >
 ________________________________________________________________________________________________________________________________________________________________
 <!-- - 👯 I’m looking to collaborate on Flutter Apps Or [Soundtrap](https://www.soundtrap.com/33nanoseconds)
 - 💬 Ask me about Neurolinguistic Programming -->
