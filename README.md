@@ -3,7 +3,7 @@
 ```Javascript
 const 33nano = {
   aliases: "33nanoseconds"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra" | "Dr Queef"|"Kinky Therapist" | "Exiled Afropolitan" | "Emperor Habibi"
-  code: [GDScript,Go, Lua, Bash ],
+  code: [GDScript,Go, Lua, Bash, Dart ],
   tools: [Figma, Rive 2,VS Codium,Godot,Magicavoxel,Pixelorama,Blender,LMMS,Inkscape,Gimp, Love2D, GDevelop, RenPy, Construct 3, Asesprite, MyPaint,Krita,Assetforge,Audacity,Reaper, Soundtrap, Wavebots Editor,Helm VST, Graillon VST,Flame Engine ],
   os: [Artix Linux + Runit + AwesomeWM],
   interests: ["Blockchain development", "Mobile App development", "Game Development","Neuro Linguistic Programming", "Rational Emotive Behavior Therapy", "Decentralized Applications","InterPlanetary File System", "Gamification","Procedural Music", "Generative Art"],
