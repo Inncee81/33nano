@@ -47,6 +47,112 @@ ________________________________________________________________________________
  
 </details>
 
+
+<details markdown='1'><summary>Second Brain 🚀</summary>
+
+
+# <span style='color:#74ffcb;'>Second Brain</span>
+> Mental Model created by Tiago Forte
+
+
+
+![](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)
+
+### <span style='color:#ff2ecb;'>CODE</span>
+<span style='color:#5dffae;'>
+
+<!-- Collect information from everything you consume, Organize your information using the Para method. Distill your information by placing unused ideas in Archive and express your remixed ideas. -->
+- **C** - _Collect_ 
+- **O** - _Organize_ 
+- **D** - _Distill_
+- **E** - _Express_
+</span>
+
+### <span style='color:#ff2ecb;'>PARA</span>
+<span style='color:#5dffae;'>
+
+ <!-- Projects have deadlines, Areas require continuous improvement, Resources are what you consume and Archive is completed projects and filtered ideas.-->
+- **P** - _Projects_
+- **A** - _Areas_
+- **R** - _Resources_
+- **A** - _Archive_
+</span>
+
+> The principles listed below have been distilled from the original 10 that are mentioned in the podcast.
+<span style='color:#46e8ff;'>
+
+### <span style='color:#ffe217;'>Principles</span>
+1. **Steal like an artist** <!-- Attributed to a famous book of the same name -->
+- _never start from scratch_ <!-- Tabularasa should be limited to birth, not creativity. A blank canvas causes a creative block in the creator. Starting from scratch is a disservice to oneself for the time allotted to occupy and fill the canvas is exponential. Save -->
+- _remix_ <!-- Originality doesn't exist, that's just the truth, but some find it offensive and pointlessly try to  argue about a true fact. Its even in a Bible Verse, there is nothing new under the sun. Everything is out there is a remix of something else. Even philosophers stole and remixed ideas from other philosophers. Developers clone or remix preexisting ideas into something else. Lyft is a clone of Uber. Doordash is a clone of Uber Eats, or which ever came first. All search engines are a clone of each other, some with more features, some with less (predictive searching, privacy focused, minimal, dark theme...). Most pop songs use the same chord progressions as other songs. In fact the app that I wish to create, Super Psyche, is a remix of abundant research in Neuroscience and all the neuro related content that I have consumed. -->
+- _start with abundance_
+2. **Kaizen**
+- _small simple steps (timed progress, build up)_
+- _Daily (not everything has to be hard)_
+- _Rome wasn't built in a day_ <!-- Another great example is one of moving out. You don't just move out to an empty apartment or house. You slowly collect the things you need over time and then the move is easier. You have everything you need to continue living without worries. -->
+3. **Outsource your brain**
+- _don't use your brain to store info (there is a limit aka working memory)_ <!-- -->
+- _write it down, use your handy device_
+4. **Just in time learning** 
+- _taking action is the best way to learn_
+- _you only know what you make_
+- _don't wait until you become an expert just do it_
+5. **Projects over categories**
+- _Deadline_ 
+- _SMART Goal_
+6. **Keep your ideas moving**
+- _reuse ideas_
+- _If you are stuck move to something else and come back (you can't force yourself into a state of flow)_
+7. **Future Self**
+- _make it easier for your future self_
+- _In case of brain health decline you have something to
+  fall back to_
+
+
+</span>
+<span style='color:#74ff85;'>
+
+```
+2nd_Brain/
+├─ Projects/
+│  ├─ Projects.md
+│  ├─ Apps/
+│  ├─ Bucket-List/
+├─ Areas/
+│  ├─ Areas.md
+│  ├─ Brain-Health/
+│  ├─ Financial-Freedom/
+│  ├─ Game-Dev/
+│  ├─ Health/
+│  ├─ Lifelong-Learner/
+│  ├─ Minimalism/
+│  ├─ Personal-Growth/
+│  ├─ Travel/
+│  ├─ Writing/
+├─ Resources/
+│  ├─ Resources.md
+│  ├─ Videos/
+│  ├─ Text/
+│  ├─ DB/
+│  ├─ Mental-Models/
+│  ├─ Apps/
+│  ├─ Logs/
+│  ├─ Podcasts/
+├─ Archive/
+│  ├─ 1337/
+│  ├─ Configs+Dotfiles/
+│  ├─ Intellectual-Entertainment/
+│  ├─ Archive.md
+├─ Second-Brain.md
+```
+
+</span>
+
+
+</details>
+
+
+
 <details>
 <summary>⚡️ Github Stats</summary>
 
