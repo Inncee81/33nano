@@ -82,6 +82,10 @@ ________________________________________________________________________________
 <span style='color:#46e8ff;'>
 
 ### <span style='color:#ffe217;'>Principles</span>
+
+
+![](https://giffiles.alphacoders.com/212/212449.gif)
+
 1. **Steal like an artist** <!-- Attributed to a famous book of the same name -->
 - _never start from scratch_ <!-- Tabularasa should be limited to birth, not creativity. A blank canvas causes a creative block in the creator. Starting from scratch is a disservice to oneself for the time allotted to occupy and fill the canvas is exponential. Save -->
 - _remix_ <!-- Originality doesn't exist, that's just the truth, but some find it offensive and pointlessly try to  argue about a true fact. Its even in a Bible Verse, there is nothing new under the sun. Everything is out there is a remix of something else. Even philosophers stole and remixed ideas from other philosophers. Developers clone or remix preexisting ideas into something else. Lyft is a clone of Uber. Doordash is a clone of Uber Eats, or which ever came first. All search engines are a clone of each other, some with more features, some with less (predictive searching, privacy focused, minimal, dark theme...). Most pop songs use the same chord progressions as other songs. In fact the app that I wish to create, Super Psyche, is a remix of abundant research in Neuroscience and all the neuro related content that I have consumed. -->
