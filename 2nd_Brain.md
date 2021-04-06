@@ -159,7 +159,7 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 - Obsidian
 - Markor
 - Evernote
-- Vscode with
+- Vscode with foam
 
 3. **What is PARA?**
 - an acronym that stands for Projects, Areas, Resources and Archive
