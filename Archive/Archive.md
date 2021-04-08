@@ -1,18 +1,27 @@
 # <span style='color:#74ffcb;'>Archive</span> 
 > Completed projects and abandoned ideas that just might be reused reside here. 
 
-![](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)
+[![Second Brain](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)](https://www.buildingasecondbrain.com/ "Second Brain")
 
 <span style='color:#ff74ee;'>
 
 ### <span style='color:#ffd1d8;'> Logs</span>
+
+![](https://64.media.tumblr.com/dba8930c075bf505728df757c37b4216/tumblr_oh8awjk7lA1qze3hdo1_r1_500.gifv)
+
 - Calls
 - 
 ###  <span style='color:#ffd1d8;'> 1337</span> 
+
+![](https://64.media.tumblr.com/54a945edd2641e20859d6f6537cd7423/tumblr_pwa4bogz4N1qze3hdo2_r1_500.gifv)
+
 - Data consumption spreadsheet
 - Leet cheat sheet markdown
 - 
 ###  <span style='color:#ffd1d8;'> Configs & Dotfiles </span>
+
+![](https://giffiles.alphacoders.com/144/14446.gif)
+
 - amfora
 - bashrc
 - aseprite
@@ -28,6 +37,9 @@
 - alacritty
 - 
 ###  <span style='color:#ffd1d8;'> Intellectual Entertainment</span>
+ 
+ ![](https://giffiles.alphacoders.com/208/208354.gif)
+ 
 - Anime
 - Documentaries
 - Manga
@@ -38,6 +50,10 @@
 - Gelotology (stand up comedy)
 - 
 ###  <span style='color:#ffd1d8;'> Intellectual Waste</span>
+
+![](https://giffiles.alphacoders.com/146/14606.gif)
+
+
 - Abandoned essays
 - 
 Uninstalled tachiyomi 12, march 2021 (my mind is simply amok, I feel that I have lost my humanity, my addiction has simply got the best of me. I need a break, I might come back to it, should I deem it necessary to my life. Right now, it's not necessary even with a second brain).
@@ -227,7 +243,7 @@ Killawhale3@
         <td style="white-space:nowrap;vertical-align:middle;width:113px"><img src="https://images.ujomusic.com/unsafe/260x260/https://ipfs.infura.io/ipfs/QmSanoBLRxEfCb2Qjnoy81HEVgW6edXpHB8kddcQyJKDdB" style="white-space:nowrap;border-right:1px solid #f1f1f1;padding-right: 12px;height: 100px"></td>
         <td style="white-space:nowrap;font-family:Helvetica, Arial;padding-left: 10px;font-size: 14px;vertical-align:middle;white-space:nowrap">
             <h1 style="white-space:nowrap;font-size:18px; color:#09c;line-height: 1;margin: 0 0 8px 0">Prince Kaizen Namwali</h1>
-            <h2 style="white-space:nowrap;font-size:17px; color:#333;line-height: 1;margin: 0 0 8px 0;font-weight: 400;"> Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮​ </h2>
+            <h2 style="white-space:nowrap;font-size:17px; color:#333;line-height: 1;margin: 0 0 8px 0;font-weight: 400;"> Lifelong Learner 🧠 Digital Nomad 💻 & Game Developer 🎮 </h2>
             <p><details></p>
                 <summary>⚡️ Connect with me</summary>
                 
@@ -248,16 +264,16 @@ Killawhale3@
                 <br>
                 <a href="https://www.codingame.com/profile/aedc4b70ef8de7850063e0b23ebcd76c2670393"><img src="https://img.shields.io/badge/-33nano-001233?style=flat-square&amp;logo=codeigniter&amp;logoColor=dc2f02&amp;link=https://www.codingame.com/profile/aedc4b70ef8de7850063e0b23ebcd76c2670393" alt="Codeigniter Badge"></a> <a href="https://github.com/33nano"><img src="https://img.shields.io/badge/-33nano-679436?style=flat-square&amp;logo=github&amp;logoColor=white&amp;link=https://github.com/33nano" alt="Github Badge"></a></p>
                 <p></details></p>
-                <p>​</p>
-                <p>​</p>
-                <p>​</p>
+                <p></p>
+                <p></p>
+                <p></p>
         </td>
     </tr>
 </table>
 
 
 
-<!-- <p> <details></p>
+<!-- <p>�<details></p>
 <summary>⚡️ Connect with me</summary>
 
 <p><a href="https://www.linkedin.com/in/33nano/"><img src="https://img.shields.io/badge/-33nano-2a9d8f?style=flat-square&amp;logo=Linkedin&amp;logoColor=blue&amp;link=https://www.linkedin.com/in/33nano/" alt="Linkedin Badge"></a>  <a href="https://medium.com/@33n/global-facts-v3-0-40610340356"><img src="https://img.shields.io/badge/-@33n-f4a261?style=flat-square&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@33n/global-facts-v3-0-40610340356" alt="Medium Badge"></a>  <a href="mailto:33nano@pm.me"><img src="https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&amp;logo=ProtonMail&amp;logoColor=ffb703&amp;link=mailto:33nano@pm.me" alt="ProtonMail Badge"></a>  <a href="https://www.dribbble.com/33nano"><img src="https://img.shields.io/badge/-33nano-ffb4a2?style=flat-square&amp;logo=dribbble&amp;logoColor=f72585&amp;link=https://www.dribbble.com/33nano" alt="Dribbble Badge"></a> <a href="https://www.twitter.com/Anno_denomini"><img src="https://img.shields.io/badge/-Anno_denomini-48cae4?style=flat-square&amp;logo=twitter&amp;logoColor=006d77&amp;link=https://www.twitter.com/Anno_denomini" alt="Twitter Badge"></a> <a href="https://ujomusic.com/portal/musicgroup/849"><img src="https://img.shields.io/badge/-33nano-orange?style=flat-square&amp;logo=soundcloud&amp;logoColor=3d405b&amp;link=https://ujomusic.com/portal/musicgroup/849" alt="Soundcloud Badge"></a> <a href="https://reddit.com/user/33nano"><img src="https://img.shields.io/badge/-33nano-06d6a0?style=flat-square&amp;logo=reddit&amp;logoColor=3a0ca3&amp;link=https://reddit.com/user/33nano" alt="Reddit Badge"></a>  <a href="https://stackoverflow.com/users/story/13772339"><img src="https://img.shields.io/badge/-33nano-eeef20?style=flat-square&amp;logo=stackoverflow&amp;logoColor=9a031e&amp;link=https://stackoverflow.com/users/story/13772339" alt="StackOverflow Badge"></a> <a href="https://disqus.com/by/33nano/"><img src="https://img.shields.io/badge/-33nano-ffb703?style=flat-square&amp;logo=disqus&amp;logoColor=f72585&amp;link=https://disqus.com/by/33nano/" alt="Disqus Badge"></a>  <a href="https://dev.to/33nano/billionar-dollar-app-ideas-5d6g"><img src="https://img.shields.io/badge/-33nano-774936?style=flat-square&amp;logo=dev.to&amp;logoColor=eddcd2&amp;link=https://dev.to/33nano/billionar-dollar-app-ideas-5d6g" alt="Dev Badge"></a>  <a href="https://www.artstation.com/tikiti_maji"><img src="https://img.shields.io/badge/-tikiti_maji-black?style=flat-square&amp;logo=artstation&amp;logoColor=e29578&amp;link=https://www.artstation.com/tikiti_maji" alt="Artstation Badge"></a>
@@ -267,9 +283,9 @@ Killawhale3@
 <a href="https://steemit.com/@drqueef"><img src="https://img.shields.io/badge/-33nano-4d194d?style=flat-square&amp;logo=steemit&amp;logoColor=6b705c&amp;link=https://steemit.com/@drqueef" alt="Steemit Badge"></a> <a href="https://freecodecamp.org/kinky_therapist"><img src="https://img.shields.io/badge/-Kinky_Therapist-815839?style=flat-square&amp;logo=freecodecamp&amp;logoColor=white&amp;link=https://freecodecamp.org/kinky_therapist" alt="freeCodeCamp Badge"></a> <a href="https://www.bitdegree.org/user/33nano/profile"><img src="https://img.shields.io/badge/-33nano-011627?style=flat-square&amp;logo=udemy&amp;logoColor=adf7b6&amp;link=https://www.bitdegree.org/user/33nano/profile" alt="Udemy Badge"></a> <a href="https://spectrum.chat/users/33nano?tab=posts"><img src="https://img.shields.io/badge/-33nano-00c49a?style=flat-square&amp;logo=spectrum&amp;logoColor=white&amp;link=https://spectrum.chat/users/33nano?tab=posts" alt="Spectrum Badge"></a> <a href="https://www.instagram.com/anno_denomini/"><img src="https://img.shields.io/badge/-33nano-c9a227?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/anno_denomini/" alt="Instagram Badge"></a> <a href="https://unsplash.com/@33nano"><img src="https://img.shields.io/badge/-33nano-ce4257?style=flat-square&amp;logo=unsplash&amp;logoColor=white&amp;link=https://unsplash.com/@33nano" alt="Unsplash Badge"></a> <a href="https://www.pinterest.com/tikiti_maji/"><img src="https://img.shields.io/badge/-33nano-621708?style=flat-square&amp;logo=pinterest&amp;logoColor=583101&amp;link=https://www.pinterest.com/tikiti_maji/" alt="Pinterest Badge"></a> <a href="https://www.behance.net/drqueef"><img src="https://img.shields.io/badge/-33nano-abff4f?style=flat-square&amp;logo=behance&amp;logoColor=white&amp;link=https://www.behance.net/drqueef" alt="Behance Badge"></a> <a href="https://steamcommunity.com/id/33nano/"><img src="https://img.shields.io/badge/-33nano-007ea7?style=flat-square&amp;logo=steam&amp;logoColor=white&amp;link=https://steamcommunity.com/id/33nano/" alt="Steam Badge"></a> <a href="https://www.khanacademy.org/profile/palaestra/"><img src="https://img.shields.io/badge/-33nano-9381ff?style=flat-square&amp;logo=khan-academy&amp;logoColor=white&amp;link=https://www.khanacademy.org/profile/palaestra/" alt="KhanAcademy Badge"></a> <a href="https://www.duolingo.com/profile/33nano"><img src="https://img.shields.io/badge/-33nano-679436?style=flat-square&amp;logo=duolingo&amp;logoColor=white&amp;link=https://www.duolingo.com/profile/33nano" alt="Duolingo Badge"></a> <a href="https://mtm.masterthemainframe.com/profiles/c5b89ed8-4078-42c9-99fd-b158d0b679a9"><img src="https://img.shields.io/badge/-33nano-d90429?style=flat-square&amp;logo=ibm&amp;logoColor=white&amp;link=https://mtm.masterthemainframe.com/profiles/c5b89ed8-4078-42c9-99fd-b158d0b679a9" alt="IBM Badge"></a> <a href="mailto:33nano#8814"><img src="https://img.shields.io/badge/-33nano-blue?style=flat-square&amp;logo=discord&amp;logoColor=ffb703&amp;link=mailto:33nano#8814" alt="Discord Badge"></a> 
 <a href="https://www.google.com/maps/contrib/113851627115651293452/photos/@31.480384,-101.1760718,7z/data=!3m1!4b1!4m3!8m2!3m1!1e1"><img src="https://img.shields.io/badge/-33nano-2a9d8f?style=flat-square&amp;logo=google-maps&amp;logoColor=blue&amp;link=https://www.google.com/maps/contrib/113851627115651293452/photos/@31.480384,-101.1760718,7z/data=!3m1!4b1!4m3!8m2!3m1!1e1" alt="Google Maps Badge"></a> <a href="https://scholar.google.com/scholar?scilib=1&amp;hl=en"><img src="https://img.shields.io/badge/-33nano-f6bd60?style=flat-square&amp;logo=google-scholar&amp;logoColor=white&amp;link=https://scholar.google.com/scholar?scilib=1&amp;hl=en" alt="Google Scholar Badge"></a>  <a href="https://www.mendeley.com/profiles/exiled-afropolitan/"><img src="https://img.shields.io/badge/-33nano-a44a3f?style=flat-square&amp;logo=mendeley&amp;logoColor=5f0f40&amp;link=https://www.mendeley.com/profiles/exiled-afropolitan/" alt="Mendeley Badge"></a>  <a href="https://independent.academia.edu/ExiledAfropolitan"><img src="https://img.shields.io/badge/-33nano-f72585?style=flat-square&amp;logo=academia&amp;logoColor=white&amp;link=https://independent.academia.edu/ExiledAfropolitan" alt="Academia Badge"></a>  <a href="https://k00.fr/zgfu2v7d"><img src="https://img.shields.io/badge/-33nano-b2967d?style=flat-square&amp;logo=dropbox&amp;logoColor=white&amp;link=https://k00.fr/zgfu2v7d" alt="Koofr Badge"></a>  <a href="https://1drv.ms/u/s!AoaOSp_nfaRAiCfbAAoX_SWUz4rz?e=vZFDbV"><img src="https://img.shields.io/badge/-33nano-065a60?style=flat-square&amp;logo=microsoft-onedrive&amp;logoColor=f9844a&amp;link=https://1drv.ms/u/s!AoaOSp_nfaRAiCfbAAoX_SWUz4rz?e=vZFDbV" alt="OneDrive Badge"></a> <a href="https://mega.nz/folder/HQsCED5A#3ZVujnj8s2ibfMrANu63Lw"><img src="https://img.shields.io/badge/-33nano-ef233c?style=flat-square&amp;logo=mega&amp;logoColor=dddf00&amp;link=https://mega.nz/folder/HQsCED5A#3ZVujnj8s2ibfMrANu63Lw" alt="Mega Badge"></a>  <a href="https://exercism.io/profiles/33nano"><img src="https://img.shields.io/badge/-33nano-a1c181?style=flat-square&amp;logo=exercism&amp;logoColor=white&amp;link=https://exercism.io/profiles/33nano" alt="Exercism Badge"></a>  <a href="https://www.amazon.com/33-Nanoseconds/e/B084JQRHLX?ref=sr_ntt_srch_lnk_2&amp;qid=1605490839&amp;sr=1-2"><img src="https://img.shields.io/badge/-33nano-b21e35?style=flat-square&amp;logo=amazon&amp;logoColor=e574bc&amp;link=https://www.amazon.com/33-Nanoseconds/e/B084JQRHLX?ref=sr_ntt_srch_lnk_2&amp;qid=1605490839&amp;sr=1-2" alt="Amazon Badge"></a> <a href="https://play.google.com/store/books/author?id=33+Nanoseconds"><img src="https://img.shields.io/badge/-33nano-eb5e28?style=flat-square&amp;logo=google-keep&amp;logoColor=a5a58d&amp;link=https://play.google.com/store/books/author?id=33+Nanoseconds" alt="Google Play Books Badge"></a>  <a href="https://www.codingame.com/profile/aedc4b70ef8de7850063e0b23ebcd76c2670393"><img src="https://img.shields.io/badge/-33nano-001233?style=flat-square&amp;logo=codeigniter&amp;logoColor=dc2f02&amp;link=https://www.codingame.com/profile/aedc4b70ef8de7850063e0b23ebcd76c2670393" alt="Codeigniter Badge"></a> <a href="https://github.com/33nano"><img src="https://img.shields.io/badge/-33nano-679436?style=flat-square&amp;logo=github&amp;logoColor=white&amp;link=https://github.com/33nano" alt="Github Badge"></a></p>
 <p></details></p>
-<p>​</p>
-<p>​</p>
-<p>​</p>
+<p></p>
+<p></p>
+<p></p>
 -->
 <!-- this is the original file unfixed-->
 
@@ -330,56 +346,56 @@ Killawhale3@
 
 ![](https://cdnb.artstation.com/p/assets/images/images/027/414/925/20200606135132/smaller_square/claudya-schmidt-weare.jpg?1591469492)
  
-  - [Pixelorama](https://orama-interactive.itch.io/pixelorama) =	.pxo
-- [Rive 2 App](https://rive.app/) =	.riv
-- [Gravit Designer](https://www.designer.io/en/) =	.gvdesign
-- [Multi](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) =	.svg
-- [VCV Rack](vcvrack.com/) =	.vcv
-- [LMMS](lmms.io/)	= .mmpz
-- [FL Studio Mobile](https://www.image-line.com/) =	.flm
-- [Figma](https://www.figma.com/)	= .fig
-- [Bootstrap Studio](https://bootstrapstudio.io/) =	.bsdesign
-- [Audacity](https://www.audacityteam.org/)	= .aup
-- [Magicavoxel](https://ephtracy.github.io/) =	.vox
-- eBooks	= .epub
-- Markdown	= .md
-- [7Zip](https://www.7-zip.org/)	= .7z
-- Midi	= .mid
-- [Blender](https://www.blender.org/) =	.blend
-- [Gimp](https://www.gimp.org/)	= .xcf
-- [Helm VST](https://tytel.org/helm/) =	.helm
-- Soundfont =	.sf2
-- Video =	.mp4 (h.265)
-- Image	= .png
-- [Debian](https://www.debian.org/index.html)	= .deb
-- [Red Hat](https://www.redhat.com/)	= .rpm
-- [Arch Linux](https://archlinux.org/) =	.aur
-- [Windows](https://www.microsoft.com/en-us/windows) =	.paf, .exe,  .msi
-- [Mac OS](https://www.apple.com/)	= .dmg,  .pkg
-- Linux Cross Platform	= .appimage, .flatpak, .snap
-- [Godot](https://godotengine.org/)	= .PCK
-- Word Doc	= .odt
-- Spreadsheet =	.ods
-- [Android](https://www.android.com/)	= .apk
-- iOS =	.ipa
-- Calendar =	.ics
-- [Krita](https://krita.org/)	 = .kra
-- [Aseprite](https://www.aseprite.org/)	= .ase, .aseprite
-- [Opentoonz](https://opentoonz.github.io/e/)	= .tnz
-- [My Paint](http://mypaint.org/)	= .scrap
-- [Pencil 2D](https://www.pencil2d.org/)	= .pcl, .pclx
-- High Dynamic Resonance Image =	.hdri
-- [Piskel](https://www.piskelapp.com/) =	.piskel
-- [Ayoa Mind Map](https://www.ayoa.com/) =	.imx
-- [Ntrack Studio 9 Mobile](https://ntrack.com/) =	.sng
-- [Audio Evolution Mobile](https://extreamsd.com/)	.prj
-- [Infinite Painter](https://www.infinitestudio.art/painter.php) =	.pntr
-- [Invision Studio](https://www.invisionapp.com/studio)	= .studio
-- [Love2D](https://www.love2d.org/) 	= .love
-- [Laigter](https://azagaya.itch.io/laigter)	= .laigter
-- [Qubicle](https://www.getqubicle.com/)	= .qb
-- [Pixel Studio](https://play.google.com/store/apps/details?id=com.PixelStudio)	= .psp, .psx
-- [Storyboarder](https://wonderunit.com/storyboarder/) =	.storyboarder
+  - [Pixelorama](https://orama-interactive.itch.io/pixelorama) =    .pxo
+- [Rive 2 App](https://rive.app/) = .riv
+- [Gravit Designer](https://www.designer.io/en/) =  .gvdesign
+- [Multi](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) = .svg
+- [VCV Rack](vcvrack.com/) =    .vcv
+- [LMMS](lmms.io/)  = .mmpz
+- [FL Studio Mobile](https://www.image-line.com/) = .flm
+- [Figma](https://www.figma.com/)   = .fig
+- [Bootstrap Studio](https://bootstrapstudio.io/) = .bsdesign
+- [Audacity](https://www.audacityteam.org/) = .aup
+- [Magicavoxel](https://ephtracy.github.io/) =  .vox
+- eBooks    = .epub
+- Markdown  = .md
+- [7Zip](https://www.7-zip.org/)    = .7z
+- Midi  = .mid
+- [Blender](https://www.blender.org/) = .blend
+- [Gimp](https://www.gimp.org/) = .xcf
+- [Helm VST](https://tytel.org/helm/) = .helm
+- Soundfont =   .sf2
+- Video =   .mp4 (h.265)
+- Image = .png
+- [Debian](https://www.debian.org/index.html)   = .deb
+- [Red Hat](https://www.redhat.com/)    = .rpm
+- [Arch Linux](https://archlinux.org/) =    .aur
+- [Windows](https://www.microsoft.com/en-us/windows) =  .paf, .exe,  .msi
+- [Mac OS](https://www.apple.com/)  = .dmg,  .pkg
+- Linux Cross Platform  = .appimage, .flatpak, .snap
+- [Godot](https://godotengine.org/) = .PCK
+- Word Doc  = .odt
+- Spreadsheet = .ods
+- [Android](https://www.android.com/)   = .apk
+- iOS = .ipa
+- Calendar =    .ics
+- [Krita](https://krita.org/)    = .kra
+- [Aseprite](https://www.aseprite.org/) = .ase, .aseprite
+- [Opentoonz](https://opentoonz.github.io/e/)   = .tnz
+- [My Paint](http://mypaint.org/)   = .scrap
+- [Pencil 2D](https://www.pencil2d.org/)    = .pcl, .pclx
+- High Dynamic Resonance Image =    .hdri
+- [Piskel](https://www.piskelapp.com/) =    .piskel
+- [Ayoa Mind Map](https://www.ayoa.com/) =  .imx
+- [Ntrack Studio 9 Mobile](https://ntrack.com/) =   .sng
+- [Audio Evolution Mobile](https://extreamsd.com/)  .prj
+- [Infinite Painter](https://www.infinitestudio.art/painter.php) =  .pntr
+- [Invision Studio](https://www.invisionapp.com/studio) = .studio
+- [Love2D](https://www.love2d.org/)     = .love
+- [Laigter](https://azagaya.itch.io/laigter)    = .laigter
+- [Qubicle](https://www.getqubicle.com/)    = .qb
+- [Pixel Studio](https://play.google.com/store/apps/details?id=com.PixelStudio) = .psp, .psx
+- [Storyboarder](https://wonderunit.com/storyboarder/) =    .storyboarder
 
 
 </details>
@@ -390,5 +406,106 @@ Killawhale3@
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/378423419&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dobermanwy" title="Doberman" target="_blank" style="color: #cccccc; text-decoration: none;">Doberman</a> · <a href="https://soundcloud.com/dobermanwy/morals-and-mantras" title="Morals and Mantras ft. DJ JabbaThaKut(prod. ExP)" target="_blank" style="color: #cccccc; text-decoration: none;">Morals and Mantras ft. DJ JabbaThaKut(prod. ExP)</a></div>
 
+Calendar lake - lake Malawi
 
-<img src="https://i.redd.it/4gy5n9xr9dh61.png" >
+<details markdown='1'><summary>Y</summary>
+
+
+![](https://thumbs.gfycat.com/AllPlumpCaribou-max-1mb.gif)
+
+Golden open seafood inc
+
+Search open times and come early
+
+
+The line was too long
+#277
+
+Noe serving 221. The number is exaggerated,/ forged to mask the real number or 25# but the pace was excruciatingly slow. 
+
+Do water shoes make it easier to swim?
+
+Second brain, second body, second face
+
+I wish I had a second face. My hyper pigmented acne prone face makes me wish I was invisible. In fact the reason I lack and have no confidence what soever is because of my face. I hope I never get famous, if I do I don't want my pictures circulating the internet. I don't want to work a commuting job. If I can work from home  and bury myself in work without ever exposing myself that would be great. I have even thought as far as creating a 3D model of my face and using that for videos using motion capture. I want my face buried underneath image filters and excessive clone tool usage. I can't possibly find love with my face. I don't have any friends, even if I did they would abandon me. You are not the same Prince that I once knew. What happened to you? An ugly joke might slip by and I can giggle it off but deep inside I'm hurting. My ugliness deteriorates my brain health. Trying to ease the pain by saying that I'm not as ugly as other people doesn't help because at the end of the day I'm still broken. Acne is eternal, I thought it goes away as you age, but that only exists in the fantasy of my maladaptive daydreams. Skin health is a lifelong process of maintaince, it doesn't happen overnight. Just like breaking your 400m record doesn't happen overnight. Some seek quick solution in the form of plastic surgery, but the results vary and are not always satisfactory. Am I just another victim or lab rat for those money thirsty dermatologists. Maybe bleaching my skin would rid me of my problems, but I digress. Ice  facials are a feasible solution, but the results are slow? Is seeking fast results a side effect of learned helplessness?
+
+<span style='color:#5dff5d;'>
+
+```
+my-app/
+├─ node_modules/
+├─ public/
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ robots.txt
+├─ src/
+│  ├─ index.css
+│  ├─ index.js
+├─ .gitignore
+├─ package.json
+├─ README.md
+
+
+```
+</span>
+
+Imagine creating a company right, but with one person. The employees are scripts and bots, but to make it a legit business you employ people, but they never have to work. They can earn passive income
+
+
+You know what
+
+
+As a young Afropolitan boy growing in the warm heart of Africa, I was irresolute as to what I wanted to do with my life. My peers had dreams of grandeur from doctors, lawyers, accountants, politicians, engineers and list continues. On the other side was me, a spoiled offspring consumed in western intellectual entertainment of fantasy. Cartoons were my escape from reality and the cause of my post traumatic growth. Unaware of the fact that I solely reasoned through cognitive distortions and maladaptive daydreaming , I never figured that there was a problem. Carpe diem wasn't a part of vocabulary, neither was the philosophy and lifestyle of stoicism, like a true Epicurean I lived like there was no tomorrow. Time lapsed only to be awakened to the place that made me quit television in the first place, the land of opportunity as its called. 
+
+</details>
+
+
+<span style='color:#ff5d46;'>
+
+<details markdown='1'><summary>Q&A</summary>
+
+![](https://64.media.tumblr.com/70a3dce39537c457c3731afef998f6fe/tumblr_mg014itg0z1qze3hdo1_r1_500.gifv)
+
+
+
+</details>
+
+</span>
+
+You can block JavaScript using uBlock Origin
+
+Reece - Real fool (music)
+
+
+
+
+
+Writing is the only way that I am able to control my maladaptive daydreaming
+
+
+My biggest problem in life is Maladaptive daydreaming
+
+
+
+
+Timeless learning, a theory that I am working on. A type of learning that is unaffected by time. Learning Latin today will still be relevant in the future as it was in the past. Provides a gateway go easily learn romance languags, improve your English, think critically and even help you construct new words. 
+
+Why are you drowning? Just paddle you dumbass
+
+I recently went on a walk and I saw a dude in roller blades he had a hockey stick and a ball. Then I thought to myself roller blading hockey would be fun. The only problem is that i don't have a friend to roller blade with.
+
+
+Like an intellectual capitalist my currency of choice is neurons formed by the neurogenesis of neuroplasticity. I lay to waste intellectual entertainment for its value is null. Maladaptive daydreaming was once a fiend of the past, but the markor of obsidian captured my wandering. The only form of intellectual entertainment that provides thee catharsis is gelotology because the patterns of neuro linguistic programming are acutely visible. The death of my excitement is tied to the relevation of trans cranial direct current stimulation, what a pity to be limited to the motor cortex, the overseer of motor skills.
+Gratitude, the source of my happiness
+
+
+If you dont write your story, someone else will
+
+My Hugo site takes 77ms to build (milliseconds)
+
+Kadzidzi workshop, kadzidzi lullaby, 
+Kadzidzi game studio
+
+What can a man and a cat do in Katmandu
+
+
