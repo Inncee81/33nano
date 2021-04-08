@@ -29,7 +29,7 @@
 
 ### <span style='color:#ffe217;'>Principles</span>
 
-![](https://giffiles.alphacoders.com/212/212449.gif)
+[![](https://giffiles.alphacoders.com/212/212449.gif)](https://fortelabs.co/)
 
 1. **Steal like an artist** <!-- Attributed to a famous book of the same name -->
 - _never start from scratch_ <!-- Tabularasa should be limited to birth, not creativity. A blank canvas causes a creative block in the creator. Starting from scratch is a disservice to oneself for the time allotted to occupy and fill the canvas is exponential. Save -->
@@ -61,6 +61,9 @@
 </details>
 </span>
 <span style='color:#74ff85;'>
+
+![](https://i.pinimg.com/originals/4e/fe/05/4efe05befca905de922d4d5a87bff36c.gif)
+
 
 ```
 2nd_Brain/
@@ -136,6 +139,13 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 1. _When you stop learning, your brain starts dying_
 
+2. _It takes value creation to make money... it doesn't take money to make money_ <!--Aka problem solving wealth is a state of mind - TK Coleman. Money has destroyed imagination -->
+
+3. _Don't force yourself to find your passion, instead start with your curiosity and follow those_ <!-- If you're interested in choir, just try it. You wanna try a math class, but you're not sure if you wanna do math for the rest of your life,take a math class. Just try it, some things will be more enjoyable than you would have anticipated. Some things less enjoyable and eventually that knowledge will come together and you will find what you truly love.-->
+
+4. When you fail you learn, when you learn you improve, when you improve you grow. 
+
+5. _Dreams don't come true, decisions do._
 
 </details>
 
@@ -147,6 +157,9 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://cdn.dribbble.com/users/1928646/screenshots/5524963/isometric_city.gif)
+
+
 1. **What problems does a second brain solve?**
 - Information overload
 - Post traumatic growth
@@ -155,11 +168,11 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 2. **What apps do I need to build a second brain?**
 - Any note taking app that enables you to view folders (PARA),search functionality, markdown - if possible, lightweight (not Microsoft word), sync feature, Cross platform is a plus. 
-- Notion
-- Obsidian
-- Markor
-- Evernote
-- Vscode with foam
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
+- [Markor](https://gsantner.net/project/markor.html)
+- [Evernote](https://evernote.com/)
+- [Vscode](https://vscodium.com/) with [Foam](https://foambubble.github.io/foam/)
 
 3. **What is PARA?**
 - an acronym that stands for Projects, Areas, Resources and Archive
@@ -193,3 +206,5 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 </details>
 
 </span>
+
+
