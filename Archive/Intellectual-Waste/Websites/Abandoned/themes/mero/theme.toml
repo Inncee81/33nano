@@ -1,0 +1,12 @@
+name = "mero"
+license = "MIT"
+licenselink = "https://github.com/darshanbaral/mero/blob/master/LICENSE"
+description = "Theme for personal blogs"
+homepage = "https://github.com/darshanbaral/mero"
+tags = ["Personal", "Blog", "Dark"]
+features = ["Responsive"]
+min_version = "0.55"
+
+[author]
+  name = "Darshan Baral"
+  homepage = "https://www.darshanbaral.com/"
