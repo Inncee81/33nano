@@ -1,0 +1,38 @@
+baseURL = "https://33nanoseconds.crypto"
+languageCode = "en-us"
+title = "33 Nanoseconds"
+theme = "mero"
+disableKinds = ["taxonomyTerm"]
+
+[params]
+  dateFormat = "2006-01-02" 
+  author = "Prince Kaizen Namwali"
+  description = "My awesome blog"
+  mainImage = "images/main.png"
+
+[params.introduction]
+   text = "Welcome to my website netizen.I am an Afropolitan from the warm heart of Africa,Malawi. I usually like to describe myself as a Lifelong Learner, Digital Nomad & Game Developer."
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "https://www.linkedin.com/in/33nano/"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "https://github.com/33nano"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+  url = "https://twitter.com/Anno_denomini"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-stack-overflow"
+  url = "https://stackoverflow.com/users/story/13772339"  
+
+[params.footer]
+  message = "&copy; 2021 Prince Kaizen Namwali"
