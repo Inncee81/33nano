@@ -508,4 +508,5 @@ Kadzidzi game studio
 
 What can a man and a cat do in Katmandu
 
-
+This is all you need to change your default shell
+chsh -s /bin/zsh (In this case, it changes from bash to zsh)
