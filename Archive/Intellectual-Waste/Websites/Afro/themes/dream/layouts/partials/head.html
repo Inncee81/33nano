@@ -1,0 +1,73 @@
+{{ if isset .Site.Params "favicon" }}
+<link href="{{ .Site.Params.favicon }}" rel="shortcut icon" type="image/x-icon" />
+{{ end }}
+
+{{ if eq .Type "posts" }}
+<!-- Page Author & Description -->
+<meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
+<meta name="description" content="{{ .Summary | plainify }}" />
+{{ else }}
+<!-- Site Author & Description -->
+<meta name="author" content="{{ .Site.Params.author }}" />
+<meta name="description" content="{{ .Site.Params.description }}" />
+{{ end }}
+
+<!-- Site Generator -->
+{{ hugo.Generator }}
+
+<link rel="canonical" href="{{ .Permalink }}" />
+
+<!-- Open Graph -->
+{{ template "_internal/opengraph.html" . }}
+
+<!-- Twitter Cards -->
+{{ template "_internal/twitter_cards.html" . }}
+
+<link rel="stylesheet" href="{{ "/css/semantic.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/icomoon.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/OverlayScrollbars.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
+
+<style>
+  a:not(.ui.button):hover {
+    text-decoration: underline;
+  }
+
+  {{ if .Site.Params.linkColor }}
+  a:not(.ui.button) {
+    color: {{ .Site.Params.linkColor }} !important;
+  }
+  {{ end }}
+
+  {{ if .Site.Params.darkLinkColor }}
+  .inverted a:not(.ui.button),
+  .inverted a:not(.ui.button):hover {
+     color: {{ .Site.Params.darkLinkColor }} !important;
+  }
+  {{ end }}
+
+  {{ if or .Site.Params.background .Site.Params.backgroundImage }}
+  body.default {
+    {{ if .Site.Params.background }}
+    background-color: {{ .Site.Params.background }};
+    {{ end }}
+
+    {{ if .Site.Params.backgroundImage }}
+    background-image: url({{ .Site.Params.backgroundImage }});
+    {{ end }}
+  }
+  {{ end }}
+
+  {{ if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark }}
+  body.dark {
+    {{ if .Site.Params.backgroundDark }}
+    background-color: {{ .Site.Params.backgroundDark }};
+    {{ end }}
+
+    {{ if .Site.Params.backgroundImageDark }}
+    background-image: url({{ .Site.Params.backgroundImageDark }});
+    {{ end }}
+  }
+  {{ end }}
+</style>

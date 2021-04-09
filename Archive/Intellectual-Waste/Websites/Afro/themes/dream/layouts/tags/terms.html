@@ -1,0 +1,39 @@
+{{ define "title" }}
+{{- T "allTags" -}}
+{{ end }}
+
+{{ define "main"}}
+
+{{ partial "header.html" . }}
+
+<div class="ui container">
+  <article class="ui segment dream-tags-section">
+    <h2 class="ui header">
+      {{- T "allTags" -}}
+      <div class="ui grey sub header">
+        {{ if eq (len .Data.Terms) 1 }}
+        {{- T "tag" 1 -}}
+        {{ else }}
+        {{- T "tag" (len .Data.Terms) -}}
+        {{ end }}
+      </div>
+    </h2>
+
+    {{ $data := .Data }}
+    {{ range .Data.Terms.Alphabetical }}
+    {{ $termLink := printf "/%s/%s/" $data.Plural .Term | urlize }}
+    <h3 class="ui header">
+      <a href="{{ $termLink | relLangURL }}">{{ .Term | humanize | title }}</a>&nbsp;
+      {{- T "article" .Count -}}
+    </h3>
+    <ul>
+      {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </article>
+</div>
+{{ end }}
