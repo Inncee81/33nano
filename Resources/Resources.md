@@ -327,6 +327,11 @@
 - Banksy (British) when it comes to his provocative messages conveyed through his graffiti art. 
 - Vitaly S Alexius (russian) when it comes to his new art genre, dreaminism
 
+8. **Who are your music influences?**
+- oksami for his music fusion of a wide range of genres and love for pixel art
+- Epic rap battles of history when it comes to lyricism
+- Unknown P & Big Shaq for the ability to sing in an accent ans as a character, instead of themselves
+- 
 </details>
 
 </span>
