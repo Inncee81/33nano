@@ -6,6 +6,11 @@
 5. Magicavoxel
 6. Pixelorama
 7. Coolors
+8. Pixel Character Creator
+9. Tile Setter
+10. Level Designer Tool Kit
+11. Inkscape
+12. Tiled Map Editor
 
 
 # Asesprite
