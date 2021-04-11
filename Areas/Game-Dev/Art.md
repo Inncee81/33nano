@@ -5,6 +5,7 @@
 4. Gimp
 5. Magicavoxel
 6. Pixelorama
+7. Coolors
 
 
 # Asesprite
