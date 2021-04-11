@@ -67,6 +67,28 @@
 - [Artists Guide to Gimp](https://nostarch.com/gimp2)
 
 
+</details>
+
+# Inkscape
+
+> Vector graphics editor
+
+<details><summary>About</summary>
+
+[Official Site](https://inkscape.org/)
+
+[Twitter Page](https://twitter.com/inkscape)
+
+[Deviant Art](https://www.deviantart.com/inkscapers)
+
+[Facebook Page](https://www.facebook.com/Inkscape.org)
+
+[Inkscape Forum](https://inkscape.org/forums/)
+
+[YouTube Channel](https://www.youtube.com/channel/UCKKj0FJtVE8sGn4afabKvTA/videos)
+
+
+</details>
 
 
 
