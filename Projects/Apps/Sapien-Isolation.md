@@ -3,6 +3,8 @@
 
 ![](https://giffiles.alphacoders.com/146/14685.gif)
 
+<img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/X.png" width=300 > <img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/Y.png" width=300 > 
+
 Nocode movements takes off
 Gpt-3
 Remote work (permanent, incorporated into workflow)
