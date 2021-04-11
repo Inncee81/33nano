@@ -120,7 +120,8 @@ Because I hated living in the usa and I think life will be easier just by escapi
 22. Whats the workaround for getting VST's to work on Reaper without relying on Manjaro?
 - Ever since I installed another arch based distro, but the one which requires the user to setup everything I can't seem to get most of my VST's especially Vital (spent $80) to work
 
-
+23. Is it possible to use GDScript as a scripting language outside of the Godot Game Engine?
+- I believe this open a new set of possibilities. Adding gamification elements to apps like Gimp, Inkscape, Aseprite and more. 
 
 
 
