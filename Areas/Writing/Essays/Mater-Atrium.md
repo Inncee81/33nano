@@ -215,7 +215,7 @@ Because I hated living in the usa and I think life will be easier just by escapi
 - None. Its a tool use to brainwash, I mean neocolonize people. 
 
 
-10. 
+10. Does a CC0 license require attribution?
 
 </details>
 
