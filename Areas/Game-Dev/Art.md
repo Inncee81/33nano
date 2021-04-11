@@ -24,6 +24,44 @@
 - [Instagram Page](https://www.instagram.com/aseprite/)
 - [Itch IO Page](https://dacap.itch.io/aseprite)
 
+# Gimp
+
+> Open source image editor
+
+<details><summary>About</summary>
+
+- [Official Site](https://www.gimp.org/)
+- [Documentation](https://www.gimp.org/docs/)
+- [Twitter Page](https://twitter.com/gimp_official)
+- [Facebook Page](https://www.facebook.com/gimpofficial/)
+- [Developer Wiki](https://wiki.gimp.org/index.php/Main_Page)
+
+</details>
+
+<details><summary>More Links</summary>
+
+- [Recommended Paid Video Course](https://logosbynick.com/courses/)
+- [Recommended Free Video Course](https://www.youtube.com/c/LogosByNick/playlists)
+- [Concept Art Empire Tutorials](https://conceptartempire.com/free-gimp-tutorials/)
+- [Davies Media Design](https://daviesmediadesign.com/20-gimp-2-10-tutorials-for-beginners/)
+[Gimp Learn Forum](https://gimplearn.net/)
+- [Fix The Photo](https://fixthephoto.com/gimp-tutorials.html)
+
+</details>
+
+
+<details><summary>Gimp Books</summary>
+
+- [Beginnning Gimp](https://www.amazon.com/exec/obidos/ASIN/1430210702/shallowsky-20) 2008
+- [Gimp for Textile Design](https://origininc.tripod.com/GIMP/GIMP_BOOK_MAIN/GBOOK.htm)
+- [Gimp 2.6 Cookbook](https://www.packtpub.com/product/gimp-2-6-cookbook/9781849512022)
+- [Gimp for Absolute Beginners](https://www.apress.com/us/book/9781430231684) 2012
+- [Book of Gimp](https://nostarch.com/gimp) 2013
+- [Beginning Photo Retouching & Restoration](https://www.apress.com/us/book/9781484204047) 2014
+- [The Ultimate Gimp 2.10 Guide](https://www.amazon.com/Ultimate-GIMP-2-10-Guide-Professional/dp/1790584213) 2018
+- [Artists Guide to Gimp](https://nostarch.com/gimp2)
+
+
 
 
 
