@@ -13,7 +13,7 @@
 12. Tiled Map Editor
 
 
-# Asesprite
+# Aseprite
 > Animated Sprite Editor & Pixel Art Tool
 
 - [Official Site](https://www.aseprite.org/)
