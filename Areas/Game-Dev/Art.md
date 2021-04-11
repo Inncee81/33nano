@@ -1,6 +1,31 @@
 
-Aseprite
-Dribbble
+1. Aseprite
+2. Dribbble
+3. Figma
+4. Gimp
+5. Magicavoxel
+6. Pixelorama
+
+
+# Asesprite
+> Animated Sprite Editor & Pixel Art Tool
+
+- [Official Site](https://www.aseprite.org/)
+- [Community Forums](https://community.aseprite.org/)
+- [Discord](https://discord.com/invite/Yb2CeX8)
+- [Official Documentation](https://www.aseprite.org/docs/)
+- [Facebook Page](https://www.facebook.com/aseprite)
+- [Twitter Page](https://twitter.com/aseprite)
+- [Steam Link](https://steamcommunity.com/app/431730)
+- [Asesprite Blog](http://blog.aseprite.org/)
+- [Github Repo](https://github.com/aseprite/aseprite/)
+- [YouTube Channel](https://www.youtube.com/user/aseprite)
+- [Instagram Page](https://www.instagram.com/aseprite/)
+- [Itch IO Page](https://dacap.itch.io/aseprite)
+
+
+
+
 
 <details markdown='1'><summary>Dribbble</summary>
 
