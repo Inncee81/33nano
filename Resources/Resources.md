@@ -319,6 +319,13 @@
 - #4 Neuron Linguistic Programming
 - 
 
+7. **Who are some of your art influences?**
+- Kenzee wee (singapore) when it comes to pixel art (aesthetically pleasing futuritistic animations)
+- Jared Nickerson (Nova scotia) when it comes to the symmetric geometry vector collage type style
+- Simone Legno(italian) when it comes to maximum kawaii. You cant go wrong with tokidoki, its too cute it could almost kill you
+- Boichi (S Korean) when it comes to the his level of detail in manga (hyper-realistic)
+- Banksy (British) when it comes to his provocative messages conveyed through his graffiti art. 
+- Vitaly S Alexius (russian) when it comes to his new art genre, dreaminism
 
 </details>
 
