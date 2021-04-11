@@ -119,9 +119,32 @@ symptom detector mask), RGB/Led Masks, Razer (transparent), Voice
 amplifying masks....
 
 
-
-
 ## Lessons
+- Health is the greatest wealth
+- Financial Freedom is better than financial security
+- When a person is unable to change their situation, they are forced to change themselves.
+- The notion of death is greater than the excuses you make and your reasons for procrastinating.
+- Together everyone achieves more (team).
+- Skills in tech are a must and not optional. Its not just programming.
+- It’s no longer survival of the fittest, but survival of those who are able to adapt.
+- Family is always there for you.
+- Death can teach us everything that there is to know about living.
+- We can learn a lot from others (culture and lifestyle).
+- The only person who can take care of you is yourself.
+- We are all humans, despite what titles or labels we get assigned (rich, celebrity, doctor)
+- Entrepreneurs or problem solvers are people who charge you for a solution to a problem.
+- The world doesn’t need us, but we need the world — the carbon footprint decreased by a large sum.
+- Self teaching and reality are the best teachers, not college and school.
+- Money is an object. It can always reappear.
+- Just because its over doesn't mean you have to abandon personal hygiene (hand washing with soap and all that good stuff).
+- Humanity is one race, one tongue and one nation.
+- Restaurants exist, but you still need to know how to cook and feed yourself.
+- When your mind is too loud from all the external noise, you can find peace through meditation.
+- Pain and failure are tools that help us grow.
+- Lifelong learning is the key to an active mind and opening yourself up to multiple opportunities across the world.
+- Remote work is not weird.
+- The best thing to do during a time of crisis is keeping a journal and self reflection.
+- We can’t appreciate the new things in our lives, if we don’t appreciate what we already have (Gratitude)     
 
 <!-- Prince Kaizen Namwali -->
 
