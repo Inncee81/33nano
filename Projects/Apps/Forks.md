@@ -15,3 +15,7 @@
 - Neofetch, Hugo
 - Custom shell: bash, zsh or fish
 - Tasker scripting intergration
+
+### [Block Site](https://github.com/ray-lothian/Block-Site) JS
+- Port to Firefox Mobile
+
