@@ -511,4 +511,4 @@ What can a man and a cat do in Katmandu
 This is all you need to change your default shell
 chsh -s /bin/zsh (In this case, it changes from bash to zsh)
 
-Glaxnimate is another vector graphics tools, possibly way better than synfig Studio, but with awful documentation and no clear example of how to get started. The renderer is faster, but what the point of having a cool app, that you dont know how to use. 
+Glaxnimate is another vector graphics tools, possibly way better than synfig Studio, but with awful documentation and no clear example of how to get started. The renderer is faster, but what the point of having a cool app, that you dont know how to use. The recording keyframes feature is broken
