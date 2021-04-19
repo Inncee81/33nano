@@ -12,6 +12,8 @@ https://www.reddit.com/r/godot/comments/jqcmmd/gpu_particles_everywhere/
 
 ![](https://64.media.tumblr.com/dba8930c075bf505728df757c37b4216/tumblr_oh8awjk7lA1qze3hdo1_r1_500.gifv)
 
+https://www.reddit.com/r/godot/comments/filowk/hey_guys_i_am_15_years_old_and_i_have_been/
+
 - Calls
 - 
 ###  <span style='color:#ffd1d8;'> 1337</span> 
