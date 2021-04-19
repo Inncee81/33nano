@@ -5,6 +5,37 @@
 
 <span style='color:#ff74ee;'>
 
+Animate with godot without using screen recorder to render
+
+```
+extends Node2D
+
+var gifexporter = preload("res://gdgifexporter/gifexporter.gd")
+# load and initialize quantization method that you want to use
+var median_cut = preload("res://gdgifexporter/quantization/median_cut.gd").new()
+
+var exporter
+var max_frames: int = 60
+var current_frame: int = 1
+
+func _ready() -> void:
+	exporter = gifexporter.new(get_viewport().x, get_viewport().y)
+	$AnimationPlayer.play("some_animation")
+
+func _physics_process(delta: float) -> void:
+	var img := get_viewport().get_texture().get_data()
+	img.convert(Image.FORMAT_RGBA8)
+
+	if current_frame < max_frames:
+		exporter.write_frame(img, current_frame, median_cut)
+		current_frame += 1
+	else:
+		var file: File = File.new()
+		file.open("user://result.gif", File.WRITE)
+		file.store_buffer(exporter.export_file_data())
+		file.close()
+  ```
+
 
 https://www.reddit.com/r/godot/comments/jqcmmd/gpu_particles_everywhere/
 
