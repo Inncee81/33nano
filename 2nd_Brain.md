@@ -208,7 +208,7 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 35. _Reading is to the mind, what exercise is to the body_
 
-36. _If you see a problem, but dont see a solution, you are the problem. If you see a problem & see a solutiion, you have yourself a calling._
+36. _If you see a problem, but dont see a solution, you are the problem. If you see a problem & see a solution, you have yourself a calling._
 
 37. _I wish everyone could become rich and famous, so that they can realize its not the answer_
 
@@ -224,7 +224,7 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 43. _Inside of every problem lies an opportunity_
 
-44. _Do the impossible, se the invisible, touch the untouchable, break the unbreakable, Row row fight the power._
+44. _Do the impossible, see the invisible, touch the untouchable, break the unbreakable, Row row fight the power._
 <!-- _People die at 40 and get buried at 80_
 - _Defiance is the trademark of youth_
 - _Matte black everything_ -->
@@ -311,9 +311,119 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 - Content creators 
 - Productivity enthusiasts
 - Self improvement enthusiasts
+- Polyglots 
 
 7. **Why build a Second Brain?**
 - All the knowledge you already have/know will flow, the content you consume will connect and your future self will be in sync. 
+
+8. **Is it possible to achieve transient Hypofrontality (flow) with a second Brain?**
+- Its possible to do that with your first Brain, but that's something worth looking into. 
+
+9. **Is procedural generation in computer science similar to the state of flow in Neuroscience?**
+- worth looking into ....
+
+10. **Is computational Neuroscience a thing?**
+- Interesting word combo...
+
+11. **What browser extensions/addone** can be used in tandem with a Second Brain?
+- Readwise
+- Memex
+
+12. **How does a Second Brain minimize regret?**
+-
+
+13. **How can a person gamify their Second Brain?**
+-
+
+14. **Are there any rules associated with a Second Brain?**
+- No rules, its just personal.
+
+15. **Is it possible to create an offline Second Brain?**
+- Yes, using paper & mind maps
+
+16. **Are there any medical journals or research papers written on the Second Brain?**
+-
+
+17. **What are the benefits of a Second Brain in academia?**
+-
+
+18. **If you had discovered about a Second Brain earlier, how would your life have been different?**
+-
+
+19. **Does building a Second Brain magically grant success?**
+-
+
+20. **When you search the term, _Second Brain_, something about the gut pops up, are there any similarities and distinctions between that and this personal knowledge management system?**
+-
+
+21. **Which application is best for building a Second Brain?**
+-
+
+22. **What's the point of building a Second Brain, if the future will be run by robots, AI & automation?**
+- Unique Human Intelligence...
+
+23. **What are some of Second Brain styles you see around the internet?**
+-
+
+24. **How do you structure your Second Brain?**
+- I use the PARA method, but the one thing I do different is that for every markdown file I add a details tag at the bottom called Q&A. I believe asking myself questions will help me get to the core of the file that I am looking at, helps with critical thinking and helps with storytelling ( interviews, casual conversation and what not)
+
+25. **Who can take away your Second Brain from you?**
+-
+
+26. **Do you ommit anything from your Second Brain?**
+- I believe a Second Brain should be unfiltered and you can write whatever you f•••••g want. Just be careful that you don't share it online. Keep it encrypted. Only share what you distil.
+
+27. **What do you think about using Github or Gitlab as Second Brain?**
+- Its a great idea, just be sure to keep the repositories private. The only drawback I find is that some of the scripts and HTML tags I add to my markdown don't render because Github has its own markdown flavor. I can't view colors and so forth.
+
+28. **What can you lose from giving away your Second Brain?**
+- You give up your ideas, even though it might take someone else time to make sense of your notes
+
+29. **Whats the best markdown flavor for a Second Brain?**
+- Whatever flavor allows me to render all HTML tags and scripts. Github flavored markdown is out of the picture 
+
+30. **What's the best not taking file extension for a Second Brain?**
+- Markdown hands down!
+
+31. **Is using RMarkdown for a Second Brain a viable solution?**
+- keep it super simple with regular markdown, but feel free to include other file formats for your projects and what not
+
+32. **Is Emacs or Vim great for a Second Brain?**
+- That's a matter of personal preference
+
+
+33. **Can you get in trouble for having a Second Brain?**
+-
+
+34. **Are people with Second Brains less susceptible to fake news, conspiracies, brainwashing and the like?**
+-
+
+35. **At what age should one build a Second Brain?**
+- Between the age of reason and initial access to a computational device ( phone, laptop, tablet, PC)
+-
+
+36. **Does TV threaten the idea of a Second Brain?**
+-
+
+37. **What would a Second Brain look like if it was a Non Fungible Token?**
+-
+
+38. **Can a Second Brain replace storing information in a database?**
+- A second Brain is not supposed to replace anything. Its supposed to work with your current workflow.
+
+39. **How Can You Keep Your Second Brain Healthy?**
+-
+
+40. **How can you make money with a Second Brain?**
+-
+
+41. 
+
+
+
+
+
 
 </details>
 
