@@ -36,6 +36,11 @@ func _physics_process(delta: float) -> void:
 		file.close()
   ```
 
+Godot rigging
+https://kairumagames.com/blog/rigging-2d-game-characters
+
+Godot Animation
+https://kairumagames.com/blog/animating-2d-game-characters
 
 https://www.reddit.com/r/godot/comments/jqcmmd/gpu_particles_everywhere/
 
