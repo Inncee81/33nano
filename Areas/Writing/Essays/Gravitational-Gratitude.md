@@ -28,6 +28,7 @@ At age 21, I fully adopted the crash mindset, worked on building a second brain 
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 </details>
 
