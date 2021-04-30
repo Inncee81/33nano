@@ -15,7 +15,7 @@ const 33nano = {
 
 <details><summary>🧠 Q&A</summary>
  
- ![](https://i.redd.it/dh8cwxg8b8w61.png)
+ ![](https://i.redd.it/1ctpb8dor8w61.png)
  
  1. **Who is Prince Kaizen Namwali?**
  - An Afropolitan Game Developer from the Warm Heart of Africa
