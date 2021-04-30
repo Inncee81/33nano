@@ -128,6 +128,8 @@ Here I am considered a human being, while in a plutonomy I am considered a minor
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
+
 1. **What is a plutonomy?**
 - a country or nation ruled by posh people
 
