@@ -116,6 +116,7 @@ Out of all the jobs I worked, I found recurring theme aside from the fact that I
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 1. **What have I learned from my countless job hopping?**
 - Hourly jobs have a fixed income cap, even in the midst of inflation (affects cost of living)
