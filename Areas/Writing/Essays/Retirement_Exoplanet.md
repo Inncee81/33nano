@@ -14,6 +14,8 @@ You have to work on securing your money because the truth is you can lose everyt
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
+
 1. **Does retirement exist?**
 - Apparently that's a topic worthy of a debate. I thought it was obvious , but when I first heard that it doesn't exist it got me intrigued to the point I asked , does it really?
 
