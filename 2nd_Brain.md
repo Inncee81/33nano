@@ -269,7 +269,7 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://cdn.dribbble.com/users/1928646/screenshots/5524963/isometric_city.gif)
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 
 1. **What problems does a second brain solve?**
