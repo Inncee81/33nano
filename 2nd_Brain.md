@@ -59,8 +59,16 @@
   fall back to_
 
 </details>
+
 </span>
+
+
 <span style='color:#74ff85;'>
+
+<details markdown='1'><summary>File Tree</summary>
+
+
+
 
 ![](https://i.pinimg.com/originals/4e/fe/05/4efe05befca905de922d4d5a87bff36c.gif)
 
@@ -98,6 +106,9 @@
 │  ├─ Archive.md
 ├─ Second-Brain.md
 ```
+
+</details>
+
 <span style='color:#7485ff;'></span>
 
 
@@ -259,6 +270,8 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 59. _The only place you can find equality is in a cemetery_
 
+60. Internal censorship is the enemy of creativity <!-- Nina Paley -->
+
 </details>
 
 </span>
@@ -418,15 +431,45 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 40. **How can you make money with a Second Brain?**
 -
 
-41. 
+41. **What's the suitable work environment for people with a Second Brain?**
+- I believe that if you are a knowledge worker you should work remotely because they type of environment is more optimal.
 
 
+42. **How can sync my Second Brain across my devices?**
+- There's a multitude of options, consider the following
+- Syncthing
+- EteSync
+- Paperwork(.cloud)
+- Next cloud
+- Fruux
 
+42. **How can I keep my Second Brain secure from prying eyes and intellectual property kleptomaniacs?**
+- There's a multitude of options, consider the following
+- age( go - github)
+- Kryptor
+- Cryptomator (Recommended)
+- Tomb
+- Hat.sh
+- Linux Unified Key Setup (LUKS)
+- Veracypt
+- MAT2 (metadata remover)
+- Exif Cleaner
 
+43. **Do you need to have attribution for a second Brain?**
+- No! Its yours, its personal , but should you feel inclined do so, even though no one will ever see it.
 
+44. **Do you need permission to have a Second Brain?**
+- It's all about the permissionless mindset...
 
+45. **Is it possible to get a cease and desist letter for the contents of your second Brain?**
+- No! A second Brain is not subject to any copyright laws of Planet Earth or Interplanetary laws. That's like saying that your urine is subject to copyright infringement...
+
+46. In what ways is planned obsolescence related to a Second Brain?
+-
 </details>
 
 </span>
+
+
 
 
