@@ -290,7 +290,7 @@
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.pinimg.com/originals/d8/6e/57/d86e5778a1b83a26849492ab859f4167.gif)
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 1. **What do you think is the best way to organize your resources?**
 - I believe simplifying the resources down to text, videos , images and sound is the right way to go.
