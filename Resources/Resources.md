@@ -116,6 +116,7 @@
 30. Visualization
 31. Zen 
 32. Zettlekasten
+33. Hyperfocus
 
 </details>
 
@@ -131,20 +132,20 @@
 
 <span style='color:#74cbff;'>
 
-1. Building a Second Brain
-2. Career Crashers
-3. Egghead
-4. Forward Tilt
-5. Joe Rogan Experience
-6. Kwik Brain
-7. Office Hours
-8. Rich Dad Radio Show
-9. Speaking of Bitcoin
-10. Stack Overflow
-11. Systematic Mastery
-12. Techlead Show
-13. Unstoppable Podcast
-14.  Revolution of One
+1. Building a Second Brain <!-- Tiago Forte -->
+2. Career Crashers<!-- Isaac Morehouse -->
+3. Egghead <!--  -->
+4. Forward Tilt<!-- Isaac Morehouse -->
+5. Joe Rogan Experience<!-- Joe Rogan -->
+6. Kwik Brain<!-- Jim Kwik -->
+7. Office Hours<!-- Isaac Morehouse & TK Coleman -->
+8. Rich Dad Radio Show<!-- Robert Kiyosaki -->
+9. Speaking of Bitcoin<!-- Andreas Antonopolous -->
+10. Stack Overflow<!--  -->
+11. Systematic Mastery<!--  -->
+12. Techlead Show<!-- Patrick Syu -->
+13. Unstoppable Podcast<!--  -->
+14.  Revolution of One<!-- TK Coleman -->
 </span>
 
 </details>
@@ -158,8 +159,9 @@
 
 <span style='color:#74cbff;'>
 
-1. XDA Developers
-2. 
+1. [XDA Developers](https://www.xda-developers.com/)
+2. [Crash Co](https://crash.co/content/)
+3. [Discover Praxis](https://discoverpraxis.com/blog/)
 
 
 </span>
@@ -240,29 +242,29 @@
 
 <details markdown='1'><summary>YT Channel List</summary>
 
-1. GDQuest
-2. Asian Boss
-3. Black Experience Japan
-4. Scorpio Martianus
-5. FlashGitz
-6. Ask Game Dev
-7. Casually Explained
-8. Dev Duck
-9. Distro Tube
-10. Epic Rap Battles of History
-11. Luke Smith
-12. Game From Scratch
-13. Jim Kwik
-14. Heart Beast 
-15. Flithy Frank
-16. Munya Chawawa
-17. Mark Angel Comedy
-18. Teacher Mpamire
-19. Wode Maya
-20. Flutter
-21. Reaper Mania
-22. Techlead
-23. Andrew Huang
+1. [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+2. [Asian Boss](https://www.youtube.com/channel/UC2-_WWPT_124iN6jiym4fOw)
+3. [Black Experience Japan](https://www.youtube.com/channel/UCM9uvq7NiMDmqZnaepEvc0A)
+4. [Scorpio Martianus](https://www.youtube.com/channel/UCRllohBcHec7YUgW6HfltLA)
+5. [FlashGitz](https://www.youtube.com/channel/UCNnKprAG-MWLsk-GsbsC2BA)
+6. [Ask Game Dev](https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg)
+7. [Casually Explained](https://www.youtube.com/channel/UCr3cBLTYmIK9kY0F_OdFWFQ)
+8. [Dev Duck](https://www.youtube.com/channel/UCKCTmact-90hXpV2ns8GSsA)
+9. [Distro Tube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
+10. [Epic Rap Battles of History](https://www.youtube.com/channel/UCMu5gPmKp5av0QCAajKTMhw)
+11. [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+12. [Game From Scratch](https://www.youtube.com/channel/UCr-5TdGkKszdbboXXsFZJTQ)
+13. [Jim Kwik](https://www.youtube.com/channel/UCIm6PH37h6wUs_q7GR0LNtw)
+14. [Heart Beast](https://www.youtube.com/channel/UCrHQNOyU1q6BFEfkNq2CYMA) 
+15. [Filthy Frank](https://www.youtube.com/channel/UCkitABalXafr-NqceQdDXtg)
+16. [Munya Chawawa](https://www.youtube.com/channel/UCfhjXHUirtN7RSgKKdrTo4A)
+17. [Mark Angel Comedy](https://www.youtube.com/channel/UCQmZ9BIYOBSkxL-eqqg5z-g)
+18. [Teacher Mpamire](https://www.youtube.com/channel/UCkuOFEqdEdll8nyti4Llqfw)
+19. [Wode Maya](https://www.youtube.com/channel/UClwrpH_Np9zk8uMwnMwu8Nw)
+20. [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+21. [Reaper Mania](https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ)
+22. [Techlead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+23. [Andrew Huang](https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g)
 24. 
 
 
@@ -273,11 +275,11 @@
 
 <details markdown='1'><summary>YT Videos</summary>
 
-1. College is Dead
-2. Building a Second Brain
-3. Start with Why
-4. The Shocking Reason Black People are moving to Asia
-5. How to Keep Your Brain Healthy
+1. [College is Dead](https://www.youtube.com/watch?v=9qGBICsVeXQ&t=2)
+2. [Building a Second Brain](https://www.youtube.com/watch?v=OP3dA2GcAh8&t=1)
+3. [Start with Why](https://www.youtube.com/watch?v=Wb8KpHqU5tg&t=2)
+4. [The Shocking Reason Black People are moving to Asia](https://www.youtube.com/watch?v=-o5HElKKK4Y&t=43)
+5. [How to Keep Your Brain Healthy](https://www.youtube.com/watch?v=Jqmb_p8UVtM&t=2)
 6. 
 
 
@@ -316,22 +318,25 @@
 - #1 Reflection
 - #2 Metalearning
 - #3 Rational Emotive Behavior Therapy
-- #4 Neuron Linguistic Programming
+- #4 Neuro Linguistic Programming
 - 
 
-7. **Who are some of your art influences?**
-- Kenzee wee (singapore) when it comes to pixel art (aesthetically pleasing futuritistic animations)
-- Jared Nickerson (Nova scotia) when it comes to the symmetric geometry vector collage type style
-- Simone Legno(italian) when it comes to maximum kawaii. You cant go wrong with tokidoki, its too cute it could almost kill you
-- Boichi (S Korean) when it comes to the his level of detail in manga (hyper-realistic)
-- Banksy (British) when it comes to his provocative messages conveyed through his graffiti art. 
-- Vitaly S Alexius (russian) when it comes to his new art genre, dreaminism
+7. **Who is Jim Kwik to you?**
+-  A memory expert, a brain coach, a humble neuroscientist and the person who made me for in love with learning (metalearning)
 
-8. **Who are your music influences?**
-- oksami for his music fusion of a wide range of genres and love for pixel art
-- Epic rap battles of history when it comes to lyricism
-- Unknown P & Big Shaq for the ability to sing in an accent ans as a character, instead of themselves
-- 
+8. **How many books does it take unlock to change the Brain?**
+- I believe the magic number is 40. Like 40 days and 40 nights in the Bible...
+
+9. **Do movies count as a resource?**
+- No, movies are projects because they can be consumed in one sitting.
+
+10. **How do you bypass paywalled journals and papers?**
+- Using Sci Hub
+
+11. **How do you access eBooks for free?**
+- Torrents contain almost all the answers to life, but if you are an ethical biohacker you can suammerize a book just by reading the table of contents on Kindle or a Google play books. Heck, if you are super lazy you can actually find a free summary that someone posted on their blog online and you can piece together the entire thing.
+
+
 </details>
 
 </span>
