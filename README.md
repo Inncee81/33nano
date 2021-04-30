@@ -28,7 +28,7 @@ const 33nano = {
 - Constantly updating his [Second Brain](https://www.buildingasecondbrain.com/)
 
 3. Whats the best way to contact PKN?
-[![ProtonMail Badge](https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&logo=ProtonMail&logoColor=ffb703&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)
+- [![ProtonMail Badge](https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&logo=ProtonMail&logoColor=ffb703&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)
  
  </details>
 
