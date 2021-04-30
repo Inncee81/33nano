@@ -15,6 +15,8 @@ Thank you everyone for being here! Prepare your hearts and minds for you are abo
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
+
 1. **What do you believe will make this talk stand out?**
 - At the end I provide a practical solution in the form of an app that took years of procrastination and planning to be deployed. 
 
