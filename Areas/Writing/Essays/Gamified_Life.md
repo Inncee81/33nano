@@ -9,6 +9,7 @@ I used to be into smartphones, but not anymore. The only new thing is the price,
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 </details>
 
