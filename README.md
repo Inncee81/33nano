@@ -15,6 +15,20 @@ const 33nano = {
 }
 ```
 
+<details><summary>🧠 Q&A</summary>
+ 
+ ![](https://i.redd.it/dh8cwxg8b8w61.png)
+ 
+ 1. Who is Prince Kaizen Namwali?
+ - An Afropolitan Game Developer from the Warm Heart of Africa
+
+2. What is PKN currently working on?
+- Super Psyche, [Interplanetary Destinesia](https://github.com/33nano/Interplanetary_Destinesia), [Sapien Isolation](https://github.com/33nano/Sapien_Isolation) 
+- My [website](https://33nano.xyz)
+- Constantly updating his [Second Brain](https://www.buildingasecondbrain.com/)
+ 
+ </details>
+
 <!--* Currently Learning
 ________________________________________________________________________________________________________________________________________________________________
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/flutter-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/go-%230175C2.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/solidity-%230175C2.svg?&style=for-the-badge&logo=solidity&logoColor=white"/> -->
