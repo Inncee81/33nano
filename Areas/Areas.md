@@ -1,6 +1,6 @@
 # <span style='color:#74ffcb;'>Areas</span>  
 
-![](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)
+[![Second Brain](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)](https://www.buildingasecondbrain.com/ "Second Brain")
 
 <span style='color:#74ffcb;'>
 
@@ -15,7 +15,7 @@
 9. **Sleep**
 10. **Unschooling**
 11. **Unlearning**
-12. 
+12. **Liturgy**
 
 </span>
 
@@ -85,11 +85,14 @@
 
 ### <span style='color:#b9b9ff;'>Unlearning</span>
 
+### Networking 
+> Aka talking to People
 
 <span style='color:#ff5d46;'>
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 1. **What would you say is the number most important area in a persons life?**
 - There isn't a single answer to this  question, but if there was it would be Brain Health. Its a subject that philosophers, doctors, scientists, theologians and just about every profession would agree upon. When your mind is at peace everything else in your life falls into place. It can also be quoted through James Allen's book, As A Man Thinketh, " A man is literally what he thinks, his character being the complete sum of all his thoughts. As he thinks, so he is , as he continues to think, so he remains. " My favorite interpretations would have to be the title that Dr Daniel Amen used as his book, Change Your Brain, Change Your Life. 
@@ -128,3 +131,5 @@
 </details>
 
 </span>
+
+
