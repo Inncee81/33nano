@@ -18,3 +18,5 @@ Here are the answers:
 Aiva
 An AI powered music generator. A free account is given the power to download 3 songs a month. With multiple faje emails, the number 3 becomes unlimited. 100 emails= 300 songs, 10 emails = 30 songs.
 They don't have a way to patch it, nor do they do any IP address limiting, even if they did its easy to circumvent using a VPN. If they went a step further and limited the MAC Address, that can also be spoofed, all in the name of borrowed creativity.
+
+![](https://i.redd.it/dh8cwxg8b8w61.png)
