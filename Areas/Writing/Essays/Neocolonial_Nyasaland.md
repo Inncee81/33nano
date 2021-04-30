@@ -112,6 +112,7 @@ Your college degree is useless because what really matters is the value you crea
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 </details>
 
