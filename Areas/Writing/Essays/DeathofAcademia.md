@@ -21,6 +21,8 @@ You won't learn about finance
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
+
 1. **Why do you say, F••k college?**
 - It served its purpose once, but now it ruins the lives of people
 
