@@ -19,7 +19,6 @@
 
 <details markdown='1'><summary>Rive App</summary>
 
-![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 1. How am I supose to F•••••g render my animations as an mp4?
 - I don't code S••t
