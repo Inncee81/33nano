@@ -19,15 +19,15 @@ const 33nano = {
  
  ![](https://i.redd.it/dh8cwxg8b8w61.png)
  
- 1. Who is Prince Kaizen Namwali?
+ 1. **Who is Prince Kaizen Namwali?**
  - An Afropolitan Game Developer from the Warm Heart of Africa
 
-2. What is PKN currently working on?
+2. **What is PKN currently working on?**
 - [Super Psyche](https://github.com/33nano/Super_Psyche), [Interplanetary Destinesia](https://github.com/33nano/Interplanetary_Destinesia), [Sapien Isolation](https://github.com/33nano/Sapien_Isolation) 
 - My [website](https://33nano.xyz)
 - Constantly updating his [Second Brain](https://www.buildingasecondbrain.com/)
 
-3. Whats the best way to contact PKN?
+3. **Whats the best way to contact PKN?**
 - [![ProtonMail Badge](https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&logo=ProtonMail&logoColor=ffb703&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)  [![Discord Badge](https://img.shields.io/badge/-33nano-blue?style=flat-square&logo=discord&logoColor=ffb703&link=mailto:33nano#8814)](mailto:33nano#8814)
  
  </details>
