@@ -10,6 +10,7 @@ Why can't creators take care of their own health?
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 </details>
 
