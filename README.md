@@ -1,5 +1,3 @@
- # 𝘼𝙛𝙧𝙤𝙥𝙤𝙡𝙞𝙩𝙖𝙣 𝗟𝗶𝗳𝗲𝗹𝗼𝗻𝗴 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 🧠 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗡𝗼𝗺𝗮𝗱 💻  𝗚𝗮𝗺𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🎮
-
 ```Javascript
 const 33nano = {
   aliases: "33nanoseconds"| "Reverend Tapioca"| "Antisocial Ambassador"| "Anno Denomini"| "Blasian Ninja"| "Doma Dingus"| "Yakkety Quire"| "Taradiddle Poodle"| "Jah Palaestra" | "Dr Queef"|"Kinky Therapist" | "Exiled Afropolitan" | "Emperor Habibi"
