@@ -12,3 +12,5 @@ Our goal at CageJacket.com is to provide easy access to great fitting baseball p
 All MLB Players use hitting jackets or Cage Jackets as they are commonly referred to as. Injuries to the core can be very difficult to rehab and can take months to recover from - staying loose and limber is very important. The jacket should fit well but shouldn't be to tight. Nothing should impede your natural swing. 
 
 </details>
+
+![](https://i.redd.it/dh8cwxg8b8w61.png)
