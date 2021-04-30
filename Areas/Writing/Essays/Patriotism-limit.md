@@ -10,6 +10,7 @@ If you got killed in your own country for something you ddint do or just because
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 </details>
 
