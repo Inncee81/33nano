@@ -5,3 +5,5 @@
 Rehabilitation doesn't work!
 
 </span>
+
+![](https://i.redd.it/dh8cwxg8b8w61.png)
