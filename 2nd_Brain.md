@@ -469,7 +469,3 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 </details>
 
 </span>
-
-
-This is just a test, but feel free to click <details><summary>here</summary>  To find out more about the little experiment </details> Thats the end
-
