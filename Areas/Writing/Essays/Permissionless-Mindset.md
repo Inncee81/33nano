@@ -12,6 +12,7 @@ You don't have to trust people to become a billionaire, you have to exploit them
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/dh8cwxg8b8w61.png)
 
 </details>
 
