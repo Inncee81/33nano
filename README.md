@@ -47,7 +47,7 @@ const 33nano = {
 - He wanted to become an animator, but later realized that dreams dont come true, decisions do. He eventually dabbled in animation only to find out that he didn't like it and moved on to something else.
 
 10. **Whats one thing PKN loves about technology?**
-- PKN loves procedural generation. The ability to create things out of existence without utilizing ones own unique human intelligence is a blessing...
+- PKN loves procedural generation. The ability to create things out of existence without utilizing ones own unique human intelligence is a blessing... I love procedural generation so much i even create an a awesome list repository [here](https://github.com/33nano/Interplanetary_Destinesia)
 
 11. **What is PKN's favorite thing to watch on TV?**
 - I dont watch TV, but that doesnt mean i am not human. I spent lots of time writing, reading and connecting with other human beings.
@@ -56,10 +56,7 @@ const 33nano = {
 - I would have to go with _necessity is the mother of invention_ . Its an amazing proverb in that when i brainstorm i realize that it all starts with a question. Questioning the old way of life,the amount of time it takes do something
 
 99. **Is it possible to make a music video using a game engine?**
-
 - Yes, absolutely. The music video rainfall by stormzy is a great example. I believe it can be done using the Godot game engine by creating a standalone app plugin or app using GDScript. The 3D and or 2D can be created using Blender. For the motion capture you would need an inexpensive suit and none other than Chordata can fulfill those needs.
-
-
 
 100. **What is PKN's weakness?**
 - Maladaptive daydreaming
