@@ -27,6 +27,12 @@ const 33nano = {
 
 3. **Whats the best way to contact PKN?**
 - [![ProtonMail Badge](https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&logo=ProtonMail&logoColor=ffb703&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)  [![Discord Badge](https://img.shields.io/badge/-33nano-blue?style=flat-square&logo=discord&logoColor=ffb703&link=mailto:33nano#8814)](mailto:33nano#8814)
+
+4.**What is PKN's favorite hobby?**
+- He loves writing. Ever since he learned about markdown he has been addicted ever since.
+
+5. **How many languages does PKN know?**
+- His linguistic skills are not yet quantifiable as he is a Polyglot in the making... He is fluent in English & Chichewa. He recently learned Latin because he was tired of using an English dictionary. He is currently learning Swahili due to the limitations of Chichewa. He wishes to learn Japanese and Korean at some point in order to read more Manga & Manhwa without waiting for English scanlations. 
  
  </details>
  
