@@ -34,6 +34,36 @@ const 33nano = {
 5. **How many languages does PKN know?**
 - His linguistic skills are not yet quantifiable as he is a Polyglot in the making... He is fluent in English & Chichewa. He recently learned Latin because he was tired of using an English dictionary. He is currently learning Swahili due to the limitations of Chichewa. He wishes to learn Japanese and Korean at some point in order to read more Manga & Manhwa without waiting for English scanlations. 
  
+ 6, **Does PKN watch anime?**
+ - He used to, but eventually moved on to exlusively reading Manga, later abandoning Manga for Manhwa.
+
+7. **What OS does PKN Use?
+- After abandoning windows and MacOS he distrohopped countless times and settles on Artix Linux.
+
+8. **Whats is PKN's game engine of choice?**
+- Godot for the win. Aside from creating games, it great for creating animations as well.
+
+9. **What was PKN's dream when growing up?**
+- He wanted to become an animator, but later realized that dreams dont come true, decisions do. He eventually dabbled in animation only to find out that he didn't like it and moved on to something else.
+
+10. **Whats one thing PKN loves about technology?**
+- PKN loves procedural generation. The ability to create things out of existence without utilizing ones own unique human intelligence is a blessing...
+
+11. **What is PKN's favorite thing to watch on TV?**
+- I dont watch TV, but that doesnt mean i am not human. I spent lots of time writing, reading and connecting with other human beings.
+
+12. **What is PKN's favorite English proverb?**
+- I would have to go with _necessity is the mother of invention_ . Its an amazing proverb in that when i brainstorm i realize that it all starts with a question. Questioning the old way of life,the amount of time it takes do something
+
+99. **Is it possible to make a music video using a game engine?**
+
+- Yes, absolutely. The music video rainfall by stormzy is a great example. I believe it can be done using the Godot game engine by creating a standalone app plugin or app using GDScript. The 3D and or 2D can be created using Blender. For the motion capture you would need an inexpensive suit and none other than Chordata can fulfill those needs.
+
+
+
+100. **What is PKN's weakness?**
+- Maladaptive daydreaming
+
  </details>
  
 <!--
