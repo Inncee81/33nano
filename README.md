@@ -29,7 +29,7 @@ const 33nano = {
 - [![ProtonMail Badge](https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&logo=ProtonMail&logoColor=ffb703&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)  [![Discord Badge](https://img.shields.io/badge/-33nano-blue?style=flat-square&logo=discord&logoColor=ffb703&link=mailto:33nano#8814)](mailto:33nano#8814)
 
 4.**What is PKN's favorite hobby?**
-- He loves writing. Ever since he learned about markdown he has been addicted ever since.
+- He loves writing. Learning about markdown fully manifested his writing addiction.
 
 5. **How many languages does PKN know?**
 - His linguistic skills are not yet quantifiable as he is a Polyglot in the making... He is fluent in English & Chichewa. He recently learned Latin because he was tired of using an English dictionary. He is currently learning Swahili due to the limitations of Chichewa. He wishes to learn Japanese and Korean at some point in order to read more Manga & Manhwa without waiting for English scanlations. 
@@ -55,8 +55,19 @@ const 33nano = {
 12. **What is PKN's favorite English proverb?**
 - He loves the proverb  _necessity is the mother of invention_ . Its an amazing proverb in that when he brainstormed he realized that it all starts with a question. Questioning the old way of life,the amount of time it takes do something...
 
+13. **What are some of PKN's favorite books?**
+- Forward Tilt by Isaac Morehouse
+- Memory Rescue by Dr Daniel Amen
+- Limitless by Jim kWik
+- Mindmap Mastery by Tony Buzan
+- Fake by Robert Kiyosaki
+- Internet of Money by Andreas Antonopolous
+
+14. **What are some of the coolest things that PKN has ever learned?**
+- Rational Emotive Behavior Therapy (Udemy course), Building a Second Brain (Tiago Forte), Latin and Neuro Linguistic Programming.
+
 99. **Is it possible to make a music video using a game engine?**
-- Yes, absolutely. The music video rainfall by stormzy is a great example. I believe it can be done using the Godot game engine by creating a standalone app plugin or app using GDScript. The 3D and or 2D can be created using Blender. For the motion capture you would need an inexpensive suit and none other than Chordata can fulfill those needs.
+- Yes, absolutely. The music video rainfall by stormzy is a great example. I believe it can be done using the Godot game engine by creating a standalone app plugin or app using GDScript. The 3D and or 2D can be created using [Blender](https://www.blender.org/). For the motion capture you would need an inexpensive suit and none other than [Chordata](https://chordata.cc/) can fulfill those needs.
 
 100. **What is PKN's weakness?**
 - Maladaptive daydreaming
