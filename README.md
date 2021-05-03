@@ -32,7 +32,7 @@ const 33nano = {
 - He loves writing. Learning about markdown fully manifested his writing addiction.
 
 5. **How many languages does PKN know?**
-- His linguistic skills are not yet quantifiable as he is a Polyglot in the making... He is fluent in English & Chichewa. He recently learned Latin because he was tired of using an English dictionary. He is currently learning Swahili due to the limitations of Chichewa. He wishes to learn Japanese and Korean at some point in order to read more Manga & Manhwa without waiting for English scanlations. 
+- His linguistic skills are not yet quantifiable as he is a Polyglot in the making... He is fluent in English & Chichewa. He recently learned Latin because he was tired of using an English dictionary. He is currently learning Swahili due to the limitations of Chichewa. He wishes to learn Japanese and Korean at some point in order to read more Manga & Manhwa without waiting for English scanlations(read legally). 
  
  6, **Does PKN watch anime?**
  - He used to, but eventually moved on to exlusively reading Manga, later abandoning Manga for Manhwa.
