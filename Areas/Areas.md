@@ -92,7 +92,8 @@
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.redd.it/dh8cwxg8b8w61.png)
+
+![](https://i.redd.it/1ctpb8dor8w61.png)
 
 1. **What would you say is the number most important area in a persons life?**
 - There isn't a single answer to this  question, but if there was it would be Brain Health. Its a subject that philosophers, doctors, scientists, theologians and just about every profession would agree upon. When your mind is at peace everything else in your life falls into place. It can also be quoted through James Allen's book, As A Man Thinketh, " A man is literally what he thinks, his character being the complete sum of all his thoughts. As he thinks, so he is , as he continues to think, so he remains. " My favorite interpretations would have to be the title that Dr Daniel Amen used as his book, Change Your Brain, Change Your Life. 
@@ -131,5 +132,3 @@
 </details>
 
 </span>
-
-
