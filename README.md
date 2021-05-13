@@ -18,7 +18,7 @@ const 33nano = {
  ![](https://i.redd.it/1ctpb8dor8w61.png)
  
  1. **Who is Prince Kaizen Namwali?**
- - A Neovim scribe aspiring to be Game Dev 
+ - A Neovim scribe aspiring to be a Game Dev 
 
 2. **What is PKN currently working on?**
 - [Super Psyche](https://github.com/33nano/Super_Psyche), [Interplanetary Destinesia](https://github.com/33nano/Interplanetary_Destinesia), [Sapien Isolation](https://github.com/33nano/Sapien_Isolation) 
