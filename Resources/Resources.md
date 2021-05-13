@@ -1,5 +1,8 @@
-# <span style='color:#ff74ee;'>Resources</span>
+# <span style='background-color:#000000;'><span style='color:#ff74ee;'>**Resources**</span>
 > Creatively consuming cognitive enhancing content 
+
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
 
 [![Second Brain](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)](https://www.buildingasecondbrain.com/ "Second Brain")
 
@@ -292,7 +295,7 @@
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.redd.it/dh8cwxg8b8w61.png)
+![](https://i.redd.it/1ctpb8dor8w61.png)
 
 1. **What do you think is the best way to organize your resources?**
 - I believe simplifying the resources down to text, videos , images and sound is the right way to go.
@@ -336,9 +339,10 @@
 11. **How do you access eBooks for free?**
 - Torrents contain almost all the answers to life, but if you are an ethical biohacker you can suammerize a book just by reading the table of contents on Kindle or a Google play books. Heck, if you are super lazy you can actually find a free summary that someone posted on their blog online and you can piece together the entire thing.
 
+12. How do you simplify your resources even further?
+- Organize books by author , not the name or book title. Organize YouTube videos by topic not the channel. Organize blogs by topic not name 
+
 
 </details>
 
 </span>
-
-
