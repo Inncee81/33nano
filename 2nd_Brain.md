@@ -1,5 +1,9 @@
-# <span style='color:#74ffcb;'>Second Brain</span>
+# <span style='background-color:#000000;'><span style='color:#00ffbf;'>**Second Brain**</span>
 > Personal Knowledge Management/Mental Model created by Tiago Forte
+ 
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
+
 
 
 
@@ -282,24 +286,25 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.redd.it/dh8cwxg8b8w61.png)
+![](https://i.redd.it/1ctpb8dor8w61.png)
 
-
-1. **What problems does a second brain solve?**
+1. <span style='background-color:#787878;'><span style='color:#000000;'>**What problems does a Second Brain solve?**
 - Information overload
 - Post traumatic growth
 - Knowledge management (personal)
 - Writers block or any creative block (creative output)
+- Tutorial Hell (escape)
 
-2. **What apps do I need to build a second brain?**
+2. <span style='background-color:#46e8ff;'><span style='color:#000000;'>**What apps do I need to build a second brain?**
 - Any note taking app that enables you to view folders (PARA),search functionality, markdown - if possible, lightweight (not Microsoft word), sync feature, Cross platform is a plus. 
 - [Notion](https://www.notion.so/)
 - [Obsidian](https://obsidian.md/)
 - [Markor](https://gsantner.net/project/markor.html)
 - [Evernote](https://evernote.com/)
 - [Vscode](https://vscodium.com/) with [Foam](https://foambubble.github.io/foam/)
+- [Roam](https://roamresearch.com)
 
-3. **What is PARA?**
+3. <span style='background-color:#000000;'><span style='color:#46e8ff;'>**What is PARA?**
 - an acronym that stands for Projects, Areas, Resources and Archive
 - Projects are the things you want to do that are associated with a deadline
 - Areas are things in your life that demand continuous improvement (self improvement doesn't expire)
@@ -466,6 +471,11 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 46. In what ways is planned obsolescence related to a Second Brain?
 -
+
+47. Does school serve a purpose when you have a Second Brain?
+- No it doesn't...
 </details>
 
 </span>
+
+
