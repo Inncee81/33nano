@@ -1,15 +1,15 @@
-# Title: StevenBlack/hosts with the fakenews extension
+# Title: Anno Denomini
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
 # Date: 31 May 2021 15:58:24 (UTC)
-# Extensions added to this file: fakenews
+# Extensions added to this file: Tabularasa
 # Number of unique domains: 84,919
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Project home page: https://github.com/33nano/33nano/edit/2nd_Brain/Archive/hosts
+# Project releases: https://github.com/33nano/33nano/edit/2nd_Brain/Archive/hosts/releases
 #
 # ===============================================================
 
@@ -32,15 +32,14 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
+# Start AnnoDenomini
 
 #=====================================
-# Hosts contributed by Steven Black
-# http://stevenblack.com
+# Hosts contributed by Reverend Tapioca
+# http://33nano.xyz
 
 
-0.0.0.0 manhwaz.com
-0.0.0.0 webtoonscan.com
+0.0.0.0 zettelkasten.de
 
 
 #
