@@ -38,7 +38,7 @@ ff02::3 ip6-allhosts
 # Hosts contributed by Reverend Tapioca
 # http://33nano.xyz
 
-0.0.0.0 zettelkasten.de
+# Tachiyomi: Manga, Manhwa & Manga
 0.0.0.0 manhwaz.com
 0.0.0.0 hiperdex.com
 0.0.0.0 365manga.com
@@ -76,12 +76,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 isekaiscan.icu
 0.0.0.0 isekaiscan.com
 0.0.0.0 webtoonscan.com
+
+# Proprietary Garbage
+
+# Otaku Waifu & Weaboo Warudo: Digital Isekai
+
+# Antisocial Ambassador : Hikikomori
+0.0.0.0 instagram.com
+0.0.0.0 reddit.com
+0.0.0.0 youtube.com
+
 0.0.0.0 171gifs.com
 0.0.0.0 1stkissmanga.com
 0.0.0.0 1stkissmanhua.com
 0.0.0.0 1stwebdesigner.com
 0.0.0.0 24porn.tv
 0.0.0.0 444porn.com
+0.0.0.0 zettlekasten.de
 0.0.0.0 4ani.me
 0.0.0.0 4anime.ch
 0.0.0.0 4kporn.xxx
@@ -116,7 +127,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 afterellen.com
 0.0.0.0 agilitycms.com
 0.0.0.0 ahrefs.com
-0.0.0.0 reddit.com
 0.0.0.0 ajitvadakayil.blogspot.com
 0.0.0.0 akibananyascans.dreamwidth.org
 0.0.0.0 albertellis.org
@@ -275,7 +285,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bluementube.com
 0.0.0.0 board.freeones.com
 0.0.0.0 boardreader.com
-0.0.0.0 youtube.com
 0.0.0.0 bongotamu.com
 0.0.0.0 bonsaijs.org
 0.0.0.0 boobpedia.com
