@@ -38,7 +38,7 @@ ff02::3 ip6-allhosts
 # Hosts contributed by Reverend Tapioca
 # http://33nano.xyz
 
-# Tachiyomi: Manga, Manhwa & Manga
+# Tachiyomi: Manga, Manhwa & Manhua
 0.0.0.0 manhwaz.com
 0.0.0.0 hiperdex.com
 0.0.0.0 365manga.com
@@ -79,12 +79,27 @@ ff02::3 ip6-allhosts
 
 # Proprietary Garbage
 
-# Otaku Waifu & Weaboo Warudo: Digital Isekai
+# Otaku Waifu & Weaboo Warudo: Digital Escapism
+0.0.0.0 4ani.me
+0.0.0.0 4anime.ch
+0.0.0.0 7anime.io
+0.0.0.0 9anime.city
+0.0.0.0 9anime.gg
+0.0.0.0 9anime.mom
+0.0.0.0 9anime.vg
+0.0.0.0 animefrost.tv
+0.0.0.0 animeheaven.pro
+0.0.0.0 animeidhentai.com
 
 # Antisocial Ambassador : Hikikomori
 0.0.0.0 instagram.com
 0.0.0.0 reddit.com
 0.0.0.0 youtube.com
+
+# Miseducation & Propaganda: Virtual Gaslighting
+
+# Isekai & Indoctrination: F•ck Academia
+0.0.0.0 sanjac.edu
 
 0.0.0.0 171gifs.com
 0.0.0.0 1stkissmanga.com
@@ -93,15 +108,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 24porn.tv
 0.0.0.0 444porn.com
 0.0.0.0 zettlekasten.de
-0.0.0.0 4ani.me
-0.0.0.0 4anime.ch
 0.0.0.0 4kporn.xxx
 0.0.0.0 5sporn.com
-0.0.0.0 7anime.io
-0.0.0.0 9anime.city
-0.0.0.0 9anime.gg
-0.0.0.0 9anime.mom
-0.0.0.0 9anime.vg
 0.0.0.0 9gag.com
 0.0.0.0 9hentai.to
 0.0.0.0 9xbuddy.com
@@ -155,9 +163,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 anigen.org
 0.0.0.0 animalsex.party
 0.0.0.0 animate.style
-0.0.0.0 animefrost.tv
-0.0.0.0 animeheaven.pro
-0.0.0.0 animeidhentai.com
 0.0.0.0 animejs.com
 0.0.0.0 animenewsandfacts.com
 0.0.0.0 animevibe.wtf
