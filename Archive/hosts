@@ -1,9 +1,9 @@
 # Title: Anno Denomini
 #
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
+# This hosts file is a personal collection of hosts from various sources,
+# It helps aid the user in overcoming internet addiction and puts an end to maladaptive daydreaming
 #
-# Date: 31 May 2021 15:58:24 (UTC)
+# Date: 7 June 2021 15:58:24 (UTC)
 # Extensions added to this file: Tabularasa
 # Number of unique domains: 2706
 #
@@ -44,6 +44,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 365manga.com
 0.0.0.0 mangadex.uno
 0.0.0.0 mangakik.com
+0.0.0.0 animangaes.com
+0.0.0.0 arangscans.com
+0.0.0.0 arc-relight.com
 0.0.0.0 247manga.com
 0.0.0.0 24hromance.com
 0.0.0.0 manhwatop.com
