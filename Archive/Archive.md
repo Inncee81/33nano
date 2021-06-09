@@ -35,7 +35,7 @@
 4. **Firefox Backup**
 - Leechblock NG list
 - Custom hosts file for uBlock Origin <!-- Anno Denomini - hosted on my github -->
-- Bookmarks <!-- Lots of emojis, Second Brain and made up names for folders -- >
+- Bookmarks <!-- Lots of emojis, Second Brain and made up names for folders -->
 - No script list
 5. **Screen shots** 
 - T-UI Launcher
