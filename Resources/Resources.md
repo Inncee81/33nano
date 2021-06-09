@@ -4,11 +4,7 @@
 <span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
 
 
-[![Second Brain](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)](https://www.buildingasecondbrain.com/ "Second Brain")
-
 ### <span style='color:#ff8ba8;'>Apps</span>
-
-![](https://i.pinimg.com/originals/54/00/e3/5400e38889adeef77551c88193c6fb9c.jpg)
 
 
 <span style='color:#74cbff;'>
@@ -59,7 +55,6 @@
 
 ### <span style='color:#ff8ba8;'>Database</span>
 
-![](https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif)
 
 
 <details markdown='1'><summary>List</summary>
@@ -80,7 +75,6 @@
 
 ### <span style='color:#ff8ba8;'>Mental Models/Brain Biohacking</span>
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cMk4NGaUp6haiQPYMQQxCwHaD4%26pid%3DApi&f=1)
 
 <span style='color:#74cbff;'>
 
@@ -128,7 +122,6 @@
 ### <span style='color:#ff8ba8;'>Podcasts</span>
 
 
-![](https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif)
 
 <details markdown='1'><summary>List</summary>
 
@@ -155,7 +148,6 @@
 
 ### <span style='color:#ff8ba8;'>Blogs</span>
 
-![](http://p.favim.com/orig/2019/02/11/8bit-city-8-bit-Favim.com-6875655.gif)
 
 <details markdown='1'><summary>List</summary>
 
@@ -173,7 +165,6 @@
 
 ### <span style='color:#ff8ba8;'>Books</span>
 
-![](https://i.pinimg.com/originals/1a/f4/2f/1af42fae4151ede04aa015f04b15b960.png)
 
 <span style='color:#74cbff;'>
 <details markdown='1'><summary>List</summary>
@@ -239,7 +230,6 @@
 
 ### <span style='color:#ff8ba8;'>Videos</span>
 
-![](https://i.pinimg.com/originals/0e/3c/b5/0e3cb50403b973ddf15cf58a357f4077.gif)
 
 <span style='color:#74cbff;'>
 
