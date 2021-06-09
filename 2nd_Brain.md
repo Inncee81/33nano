@@ -5,16 +5,12 @@
 
 
 
-
-
-[![Second Brain](https://external-preview.redd.it/vc2bekMIJXkYGkEytq6oNeSWIkpyIDQL9Nf9cOh9-uE.jpg?width=640&crop=smart&auto=webp&s=9e4fdfff0d0e8d5ea4172db362ec9e0a255f33be)](https://www.buildingasecondbrain.com/ "Second Brain")
-
 ### <span style='color:#ff2ecb;'>CODE</span>
 <span style='color:#5dffae;'>
 
 <!-- Collect information from everything you consume, Organize your information using the Para method. Distill your information by placing unused ideas in Archive and express your remixed ideas. -->
-- **C** - _Collect_ 
-- **O** - _Organize_ 
+- **C** - _Collect_ <!-- The process of consuming information from a variety of information streams including the Brain. Podcasts,  books, ebooks, wiki's, music, internet...  Write it down - the processing changing a habit and getting things done -->
+- **O** - _Organize_ <!-- Organizing information into one of 4 
 - **D** - _Distill_
 - **E** - _Express_
 </span>
@@ -32,8 +28,6 @@
 <span style='color:#46e8ff;'>
 
 ### <span style='color:#ffe217;'>Principles</span>
-
-[![](https://giffiles.alphacoders.com/212/212449.gif)](https://fortelabs.co/)
 
 1. **Steal like an artist** <!-- Attributed to a famous book of the same name -->
 - _never start from scratch_ <!-- Tabularasa should be limited to birth, not creativity. A blank canvas causes a creative block in the creator. Starting from scratch is a disservice to oneself for the time allotted to occupy and fill the canvas is exponential. Save -->
@@ -74,7 +68,7 @@
 
 
 
-![](https://i.pinimg.com/originals/4e/fe/05/4efe05befca905de922d4d5a87bff36c.gif)
+
 
 
 ```
@@ -120,7 +114,7 @@
 
 <details><summary> Extended Summary</summary> 
 
-![](https://giffiles.alphacoders.com/212/212334.gif)
+
 
 _We live in an Information Age. Our quality of life, income, success, are all tied to our fluency with information: Our ability to capture it and share it with the world. Tiago Forte's Building a Second Brain is a great solution to this knowledge conquest.Listed below are the fundamental principles of building a second Brain. These principles are highlited in the official course, as well as the official podcast._ 
 
@@ -150,7 +144,6 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 <details markdown='1'><summary>Quotes</summary>
 
-![](https://giffiles.alphacoders.com/212/212422.gif)
 
 1. _When you stop **learning**, your brain starts **dying**_ <!-- Literally! The Brain is an organ optimized for learning and solving problems.   -->
 
@@ -284,9 +277,18 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 <span style='color:#46e8ff;'>
 
+
+<details markdown='1'><summary>Thokozani</summary>
+
+
+</details>
+
+</br>
+
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.redd.it/1ctpb8dor8w61.png)
+![](https://i.redd.it/1ctpb8dor8w61.png) 
+
 
 1. <span style='background-color:#787878;'><span style='color:#000000;'>**What problems does a Second Brain solve?**
 - Information overload
@@ -294,6 +296,7 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 - Knowledge management (personal)
 - Writers block or any creative block (creative output)
 - Tutorial Hell (escape)
+- Gas lighting
 
 2. <span style='background-color:#46e8ff;'><span style='color:#000000;'>**What apps do I need to build a second brain?**
 - Any note taking app that enables you to view folders (PARA),search functionality, markdown - if possible, lightweight (not Microsoft word), sync feature, Cross platform is a plus. 
@@ -474,6 +477,95 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 47. Does school serve a purpose when you have a Second Brain?
 - No it doesn't...
+
+48. **What are some things that a Second Brain isn't?**
+-
+
+49. **Can I use a Second Brain as a password manager?**
+-
+
+50. **What is the equivalent of Blood flow for the Second Brain?**
+-
+
+51. **How does a Second Brain aid with aging?**
+-
+
+52. **In what ways does a Second Brain reduce inflammation?**
+-
+
+53. **Can a Second Brain be impacted by genetics?**
+-
+
+54. **What are the impacts of head traume on the Second Brain?**
+-
+
+55. **In what ways does the Second Brain help detoxify the mind?**
+-
+
+56. **Does sleep quality affect the Second Brain?**
+-
+
+57. **How can a Second Brain increase your Sleep?**
+-
+
+58. **Does a Second Brain function better with quality or quantity?**
+-
+
+59. **What are some habits that can kill the Second Brain?**
+-
+
+60. **Can a Second Brain make up for ones Neurons Hormone deficiencies?**
+-
+
+61. **Can a Second Brain develop immunity?**
+-
+
+62. **How is a Second Brain crucial to ones Brain Health?**
+-
+
+63. **Can Zettlekasten be used along with a Second Brain?**
+-
+
+64. **How can a Mindmap be used along with a Second Brain?**
+-
+
+65. **Does a Second Brain have room for spaced repetition?**
+-
+
+66. **What purpose do flashcards serve when you have a Second Brain?**
+-
+
+67. **How is a Second Brain the optimal environment for Neurons Linguistic Programming?**
+-
+
+68. **Which side of the bicameral mind does a second brain lean more towards, left or right?**
+-
+
+69. **How can a Second Brain boost the productivity of a software engineer?**
+-
+
+70. **What would the second brain of Dave chappelle look like?**
+-
+
+71. **What would the second brain of Elob musk look like?**
+-
+
+72. **What would the Second brain of Jesus look like?**
+-
+
+73. **What would the Second brain of will smith look like?**
+-
+
+74. **What would the second brain of Jim Kwik look like?**
+-
+
+75. **What would the Second brain of my younger self have looked like?**
+-
+
+76. **What will the Second Brain of my future self look like?**
+-
+
+77. 
 </details>
 
 </span>
