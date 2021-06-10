@@ -174,3 +174,17 @@ file.close()
   
 Godot Animation
      https://kairumagames.com/blog/animating-2d-game-characters https://www.reddit.com/r/godot/comments/jqcmmd/gpu_particles_everywhere/
+
+System Health
+``` yay -P --stats
+	921 total packages, 42 foreign installed packages, 170 explicitly installed packages, total size occupied 9.6GB
+			      
+	Ten biggest packages
+			      linux-firmware 653MB, go 598MB, rust 49MB, libreoffice-still 390MB, llvm 290MB, brave-bin 258MB, ipfs-desktop 252MB, oomox 249MB
+			      vscodium-bin 244MB
+			      Flagged Out of Date AUR packages: ipfs-desktop resvg (oomox dependency )
+			      Missing AUR Packages: libunique
+			      
+```
+			      
+			      
