@@ -107,6 +107,42 @@ const 33nano = {
   
 31. **How does PKN come up with titles for his blog?**
   
+32. **What are PKN's favorite mobile games?**
+  
+33. *Whhat are PKN's favorite console games?**
+  
+34. **What are PKN's favorite PC Games?**
+  
+35. **What is PKN's daily driver?**
+  
+36. **Whats in PKN's podcast library?**
+  
+37. **What are PKN's favorite desktop apps?**
+  
+38. **What are PKN's favorite mobile apps?**
+  
+39. **What is PKN's go to browser?**
+  
+40. **What window manager does PKN uses?**
+  
+41. **What browser addons does PKN use?**
+  
+42. **What YouTube Channels is PKN subscribed to?**
+  
+43. **What is PKN's favorite YouTube Channel?**
+  
+44. **What type of content does PKN love consuming on YouTube?**
+  
+45. **What Udemy courses does PKN love?**
+  
+46. **What is PKN's favorite blog?**
+  
+47. **What is your favorite podcast?**
+  
+48. **What are your favorite mental models?**
+ 
+
+  
 
   
 
