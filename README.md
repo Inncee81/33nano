@@ -86,6 +86,29 @@ const 33nano = {
   
 21. **Whats are some of PKN's favorite Manga?**
 - Sun-Ken Rock, Bleach, Doubutsu no Kuni, Jagaaaaaan, Blue Phobia, Dr Slump, GTO: Paradise Lost, Jojos Bizzare Adventure Saga, One Punch Man, Mob Psycho 100, Origin, Vagabond & Birdmen
+  
+22. **What are some of PKN's favorite Manhua**
+ 
+23. **What is PKN's favorite programming language?**
+  
+24. **Whats  PKN's DAW of choice?**
+
+25. **Whats are PKN's interests?**
+  
+26. **What projects are in PKN's Second Brain?**
+  
+27. **What areas as are in PKN's Second Brain?**
+  
+28. **What resources are in PKN's Second Brain?**
+  
+29. **Why does PKN use so many aliases online?**
+  
+30. **What is PKN's favorite sport?**
+  
+31. **How does PKN come up with titles for his blog?**
+  
+
+  
 
 99. **Is it possible to make a music video using a game engine?**
 - Yes, absolutely. The music video rainfall by stormzy is a great example. I believe it can be done using the Godot game engine by creating a standalone app plugin or app using GDScript. The 3D and or 2D can be created using [Blender](https://www.blender.org/). For the motion capture you would need an inexpensive suit and none other than [Chordata](https://chordata.cc/) can fulfill those needs.
