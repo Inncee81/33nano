@@ -176,7 +176,9 @@ Godot Animation
      https://kairumagames.com/blog/animating-2d-game-characters https://www.reddit.com/r/godot/comments/jqcmmd/gpu_particles_everywhere/
 
 System Health
-``` yay -P --stats
+``` 
+			      yay -P --stats
+			      
 	921 total packages, 42 foreign installed packages, 170 explicitly installed packages, total size occupied 9.6GB
 			      
 	Ten biggest packages
