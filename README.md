@@ -65,6 +65,27 @@ const 33nano = {
 
 14. **What are some of the coolest things that PKN has ever learned?**
 - Rational Emotive Behavior Therapy (Udemy course), Building a Second Brain (Tiago Forte), Latin and Neuro Linguistic Programming.
+  
+15. **What text editor does PKN use?**
+- He uses [Neovim](https://neovim.io/)
+  
+16. **What Android launcher does PKN use?**
+ - He uses [T-UI launcher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+  
+17. **What is PKN's favorite exercise?**
+- He loves running and roller skating
+  
+18. **Whats one thing PKN loves about exercise?**
+- He loves transient hypofrontality (flow state)
+  
+19. **What are some of PKN's favorite movies?**
+- Black Panther, Coming to America 2, 3 Idiots, Ip Man 1-4 & Parasite
+  
+20. **What are some of PKN's favorite Manhwa?**
+- Eleceed, Peerless Dad, Mercenary Enrollment, Wizard of Arsenia, Noblesse, Brawling Go, Desire to Kill,  Overgeared, Household Affairs, Silent War, Dungeon Reset, Dungeons & Artifacts, Murim Login, Solo Spell Caster, Solo Leveling, 3cm Hunter, Limit Breaker & Second Life Ranker
+  
+21. **Whats are some of PKN's favorite Manga?**
+- Sun-Ken Rock, Bleach, Doubutsu no Kuni, Jagaaaaaan, Blue Phobia, Dr Slump, GTO: Paradise Lost, Jojos Bizzare Adventure Saga, One Punch Man, Mob Psycho 100, Origin, Vagabond & Birdmen
 
 99. **Is it possible to make a music video using a game engine?**
 - Yes, absolutely. The music video rainfall by stormzy is a great example. I believe it can be done using the Godot game engine by creating a standalone app plugin or app using GDScript. The 3D and or 2D can be created using [Blender](https://www.blender.org/). For the motion capture you would need an inexpensive suit and none other than [Chordata](https://chordata.cc/) can fulfill those needs.
