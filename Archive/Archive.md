@@ -8,7 +8,7 @@
 <span style='color:#00ffbf;'>
 
 
-
+<!-- The Anno Denomini hosts files is only 80 kilobytes. The hosts files on my Android devices thats managed through Adaway is 41 Megabytes. -->
 
 
 ### <span style='color:#ffd1d8;'> Completed</span>
