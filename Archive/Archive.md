@@ -1,6 +1,6 @@
 # <span style='color:#74ffcb;'>Archive</span> 
 > Completed projects and abandoned ideas that just might be reused reside here. 
-
+<!-- setopt auto_cd . Thats all you need to setup automatic change directory in zsh -->
 <span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
 
 
