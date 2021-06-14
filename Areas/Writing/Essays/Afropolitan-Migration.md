@@ -1,8 +1,11 @@
 <h1><span style='color:#46ff5d;'>
 Afropolitan Migration; A Greater Habitat For Living</span></h1>
 
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
+
 <!-- Prince Kaizen Namwali -->
-![](https://media2.giphy.com/media/kIM7qnMGPjniTxYyju/giphy.gif?cid=82a1493bxuhb3wmffzeyjaoyw8fobanvdk3cu6ny45cirqc8&rid=giphy.gif)
+[](https://media2.giphy.com/media/kIM7qnMGPjniTxYyju/giphy.gif?cid=82a1493bxuhb3wmffzeyjaoyw8fobanvdk3cu6ny45cirqc8&rid=giphy.gif)
 
 ### <span style='color:#ff632e;'>Intro</span>
 <span style='color:#ffa817;'>
@@ -113,6 +116,8 @@ Registration = $75
 = $350
 
 
+Causacasians and  Asians use charity and foreign aid as vices of looting resources, stealing land and enslaving Afropolitans in their own land. Slavery never ended it simply transformed into contracts. Colonialism never ended it simply transformed into a neocolonialist initiative  thats progressed using the brainwashing effects of television to promote the degradation of Afropolitan self image and white supremacy, Foreign aid mascarades independence and hinders innovation. If innovation starts taking place neocolonialists will bribe the broken system of government to revert changes, they dislike Afropolitan success. Afropolitans must remain obedient to their neocolonialist masters and they will do anything to make that happen and it just do happens that money is s powerful medium that would make a person turn against their own family, friends and government. 
+
 </details>
 
 ### <span style='color:#a8ff74;'>Bye Bye Plutonomy, Welcome Freedom </span>
@@ -128,7 +133,7 @@ Here I am considered a human being, while in a plutonomy I am considered a minor
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.redd.it/dh8cwxg8b8w61.png)
+![](https://i.redd.it/1ctpb8dor8w61.png)
 
 1. **What is a plutonomy?**
 - a country or nation ruled by posh people
@@ -161,3 +166,5 @@ Here I am considered a human being, while in a plutonomy I am considered a minor
 </details>
 
 </span>
+
+
