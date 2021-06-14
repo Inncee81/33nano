@@ -1,5 +1,8 @@
 # <span style='color:#468bff;'> Afropolitan Excellence</span>
 
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
+
 <span style='color:#00ff80;'>
 
 _Emancipate yourself from mental slavery, none but ourselves can free our minds_ -- Bob Marley. Afropolitan excellence is an essay that aims to shed light in the darkness, give hope to the hopeless and promote the beauty of Afropolitanism.
@@ -20,6 +23,7 @@ There are countless Afropolitan figures, but the way the content will be structu
 6. Angee Floyd - Comedian in Vietnam
 7. MMA Artist in JP from Ghana
 8. Jason Gatewood (Journalist) - JP
+9. Han Hyunmin
 
 </span>
 
@@ -51,7 +55,7 @@ There are countless Afropolitan figures, but the way the content will be structu
 
 <details markdown='1'><summary>Q&A</summary>
 
-![](https://i.redd.it/dh8cwxg8b8w61.png)
+![](https://i.redd.it/1ctpb8dor8w61.png)
 
 1. 
 
@@ -67,3 +71,4 @@ There are countless Afropolitan figures, but the way the content will be structu
 
 
 </span>
+
