@@ -50,6 +50,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 fastmanhwa.net
 0.0.0.0 tapas.io
 0.0.0.0 fullmanga.net
+0.0.0.0 tachiyomi.org
+0.0.0.0 coloredcouncil.moe
+0.0.0.0 arangscans.com
+0.0.0.0 rawkuma.com
 0.0.0.0 outmics.eu.org
 0.0.0.0 webtoon.to
 0.0.0.0 kokomanga.com
@@ -452,21 +456,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reader.kireicake.com
 0.0.0.0 kissmanga.in
 0.0.0.0 kisekimanga.com
-
-
-# Proprietary Garbage
-
-# Otaku Waifu & Weaboo Warudo: Digital Escapism
-0.0.0.0 4ani.me
-0.0.0.0 4anime.ch
-0.0.0.0 7anime.io
-0.0.0.0 9anime.city
-0.0.0.0 9anime.gg
-0.0.0.0 9anime.mom
-0.0.0.0 9anime.vg
-0.0.0.0 animefrost.tv
-0.0.0.0 animeheaven.pro
-0.0.0.0 animeidhentai.com
+0.0.0.0 beemanga.com
 0.0.0.0 w10.koomanga.com
 0.0.0.0 ksgroupscans.com
 0.0.0.0 kumascans.com
@@ -536,6 +526,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 1stkissmanhua.com
 
 
+# Proprietary Garbage
+
+# Otaku Waifu & Weaboo Warudo: Digital Escapism
+0.0.0.0 4ani.me
+0.0.0.0 4anime.ch
+0.0.0.0 7anime.io
+0.0.0.0 9anime.city
+0.0.0.0 9anime.gg
+0.0.0.0 9anime.mom
+0.0.0.0 9anime.vg
+0.0.0.0 animefrost.tv
+0.0.0.0 animeheaven.pro
+0.0.0.0 animeidhentai.com
+0.0.0.0 9hentai.to
+
+
+
 # Antisocial Ambassador : Hikikomori
 0.0.0.0 instagram.com
 0.0.0.0 reddit.com
@@ -556,6 +563,24 @@ ff02::3 ip6-allhosts
 
 # Kadzidzi The Script Kiddie
 
+# Search
+0.0.0.0 duckduckgo.com
+0.0.0.0 bing.com
+0.0.0.0 yahoo.com
+0.0.0.0 mojeek.com
+0.0.0.0 metager.org
+0.0.0.0 gexsi.com
+0.0.0.0 searchencrypt.com
+0.0.0.0 baidu.com
+0.0.0.0 aol.com
+0.0.0.0 m.baidu.com
+
+# Feed the Algorithm
+0.0.0.0 consent.youtube.com
+0.0.0.0 takeout.google.com
+0.0.0.0 youtu.be
+
+
 # Optic Cancer & Sexual Transmutation
 0.0.0.0 171gifs.com
 0.0.0.0 1stwebdesigner.com
@@ -567,7 +592,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 5sporn.com
 0.0.0.0 9gag.com
 0.0.0.0 hobby.porn
-0.0.0.0 9hentai.to
 0.0.0.0 9xbuddy.com
 0.0.0.0 a2zapk.com
 0.0.0.0 abagond.wordpress.com
@@ -618,14 +642,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 wetgif.com
 0.0.0.0 anglyaz.ru
 0.0.0.0 cloud.xwis.info
-0.0.0.0 duckduckgo.com
-0.0.0.0 bing.com
+0.0.0.0 operafootball.com
+0.0.0.0 rightstufanime.com
+0.0.0.0 m.trendflicks.com
+0.0.0.0 370chan.info
+0.0.0.0 lainchan.org
+0.0.0.0 sushigirl.us
+0.0.0.0 picarto.tv
+0.0.0.0 2ch.hk
+0.0.0.0 t.me
+0.0.0.0 wired-7.org
 0.0.0.0 lifewire.com
-0.0.0.0 yahoo.com
 0.0.0.0 reliablesoft.net
-0.0.0.0 baidu.com
-0.0.0.0 aol.com
-0.0.0.0 m.baidu.com
 0.0.0.0 mondonet.org
 0.0.0.0 privacysavvy.com
 0.0.0.0 usatoday.com
@@ -639,10 +667,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 howtogeek.com
 0.0.0.0 reviewgeek.com
 0.0.0.0 comparitech.com
-0.0.0.0 mojeek.com
-0.0.0.0 metager.org
-0.0.0.0 gexsi.com
-0.0.0.0 searchencrypt.com
 0.0.0.0 disneyplus.com
 0.0.0.0 privacy.com
 0.0.0.0 anigen.org
@@ -715,7 +739,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beastiegals.com
 0.0.0.0 beebom.com
 0.0.0.0 beeg.com
-0.0.0.0 beemanga.com
 0.0.0.0 befuck.net
 0.0.0.0 bellesaplus.co
 0.0.0.0 bestfreetube.xxx
@@ -874,7 +897,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 d0g.space
 0.0.0.0 d3js.org
 0.0.0.0 daftsex.com
-0.0.0.0 daftsex.com
 0.0.0.0 dailyverses.net
 0.0.0.0 darkarchives.yesxxx.xyz
 0.0.0.0 darkbutts.com
@@ -994,7 +1016,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 faridlingo.ir
 0.0.0.0 fatherofporn.com
 0.0.0.0 fedoramagazine.org
-0.0.0.0 femefun.com
 0.0.0.0 femefun.com
 0.0.0.0 feministporn.org
 0.0.0.0 feng.si
@@ -1289,7 +1310,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lesliespool.com
 0.0.0.0 letsreachsuccess.com
 0.0.0.0 levelingsolo.com
-0.0.0.0 leviatanscans.com
 0.0.0.0 leviatanscans.com
 0.0.0.0 lewdmanhwa.com
 0.0.0.0 lezzietub.com
