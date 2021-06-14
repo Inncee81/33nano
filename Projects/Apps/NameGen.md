@@ -1,7 +1,9 @@
-
 # Polyglot Name Generator
 
-![](https://giffiles.alphacoders.com/146/14690.gif)
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
+
+> Deadline: December 25, 2021
 
 Inspired by 
 - [TWDNE](https://www.thisworddoesnotexist.com/) • [Namelix](https://namelix.com/) •
@@ -152,7 +154,10 @@ Inspired by
 142. **Conscientious Penetration**
 143. **Final Boss Syndrome**
 144. Spreadsheets of Genetic Failures
-145. 
+145. Cultural Imperialism
+146. Latinx Mejor
+147. Planned Obsolence
+148. Blasian Fuhrer
 
 
 
@@ -164,8 +169,10 @@ Inspired by
 
 <details markdown='1'><summary>Q&A</summary>
 
+![](https://i.redd.it/1ctpb8dor8w61.png)
+
 1. **What got you started and interested in creating a name generator?**
-- It all started with word curiosity. I foubd myself interested in the meanings of some words to which I had no clue about and words that are rarely used in English. Finding cool words was the beginning and then it moved on from English to other languages. I found cooler words in other languages than I did in English. From there it went from word finding to combining words from different languages into one to make even cooler words or weird phrases. Eventually, the idea of creating my own name generator had finally sprouted because none of the name generators out there met my needs. They were built for mono linguists, not polyglots. 
+- It all started with word curiosity. I found myself interested in the meanings of some words to which I had no clue about and words that are rarely used in English. Finding cool words was the beginning and then it moved on from English to other languages. I found cooler words in other languages than I did in English. From there it went from word finding to combining words from different languages into one to make even cooler words or weird phrases. Eventually, the idea of creating my own name generator had finally sprouted because none of the name generators out there met my needs. They were built for mono linguists, not polyglots. 
 
 2. **Why build a name generator in the first place,isn't that useless?**
 - Nope, its actually useful. The most joyous thing I ever encountered on the internet after searching through a search engine what I had just made was being greeted by a blank page. Making Google, DuckDuck Go, Searx , Qwant and just about any seacrh engine return no results is beautiful. It means that you have room for Search Engine Optimization and building a brand with a unique name that also carries meaning. 
