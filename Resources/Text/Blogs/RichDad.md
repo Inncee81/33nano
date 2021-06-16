@@ -1,5 +1,7 @@
  <h1>  <span style='color:#2e63ff;'><span style='background-color:#a8ff17;'>🄺🄸🅈🄾🅂🄰🄺🄸 🅆🄴🄴🄺🄻🅈</span></span></h1>
 
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
 Retail Apocalypse- If you don't update/ adapt your business model with the internet you will go down in business.
 
 This is your life, This is your race -You are not competing with anyone or other business. You are competing against yourself.
@@ -64,3 +66,15 @@ Seth goes on to say:
 
 “Today, the means of production = a laptop computer with Internet connectivity. Three thousand dollars buys a worker an entire factory.”
 
+
+<!-- Prince Kaizen Namwali -->
+
+<span style='color:#ff5d46;'>
+
+<details markdown='1'><summary>Q&A</summary>
+
+![](https://i.redd.it/1ctpb8dor8w61.png)
+
+</details>
+
+</span>
