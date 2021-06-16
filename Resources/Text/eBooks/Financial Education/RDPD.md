@@ -1,1 +1,0 @@
-# Rich Dad Poor Dad
