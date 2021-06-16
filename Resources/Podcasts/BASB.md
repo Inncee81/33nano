@@ -1,6 +1,9 @@
 # Building a Second Brain
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.XljCIBMpnVC8U4rvroIvYAHaEK%26pid%3DApi&f=1)
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span>
+
+> 169 minutes
+
 
 ## 10 Principles
 1. Borrowed creativity
@@ -86,3 +89,15 @@ Don't start from scarcity. You refuse to start something until all the resources
 I need to create my notes for this with practical examples because the podcast episode doesn't do a great job at explaining this principle
 
 
+
+<!-- Prince Kaizen Namwali -->
+
+<span style='color:#ff5d46;'>
+
+<details markdown='1'><summary>Q&A</summary>
+
+![](https://i.redd.it/1ctpb8dor8w61.png)
+
+</details>
+
+</span>
