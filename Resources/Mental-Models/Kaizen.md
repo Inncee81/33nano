@@ -1,10 +1,15 @@
-# Limitless
+# Kaizen
+
 
 <span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
 
+![](https://cdnb.artstation.com/p/assets/images/images/017/368/667/20190419081543/smaller_square/maarten-verhoeven-oni-color-001.jpg?1555679743)
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5wgyYDjhEvODW_hMrln7-AHaLH%26pid%3DApi&f=1)
 
+Small simple steps
+ WW2 Japan Reconstruction
+  Toyyota
+  
 <!-- Prince Kaizen Namwali -->
 
 <span style='color:#ff5d46;'>
