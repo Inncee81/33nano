@@ -1,6 +1,8 @@
 <h1><span style='color:#a2aeff;'>ᵣₑₑdₛy ₗₑₐᵣₙᵢₙg</span></h1>
 
 
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+
 Episode 1
 
 Story comes first (who), genre second (where)
@@ -41,3 +43,15 @@ Episode 10
 
 Ignore the voices and stick to it
 
+
+<!-- Prince Kaizen Namwali -->
+
+<span style='color:#ff5d46;'>
+
+<details markdown='1'><summary>Q&A</summary>
+
+![](https://i.redd.it/1ctpb8dor8w61.png)
+
+</details>
+
+</span>
