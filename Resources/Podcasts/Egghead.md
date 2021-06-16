@@ -1,3 +1,18 @@
 # Egghead
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.ARc1IXH6_nMOEbM_Ang1IAHaHa%26pid%3DApi&f=1)
+<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span>
+
+
+
+<!-- Prince Kaizen Namwali -->
+
+
+<span style='color:#ff5d46;'>
+
+<details markdown='1'><summary>Q&A</summary>
+
+
+
+</details>
+
+</span>
